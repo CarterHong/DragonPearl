@@ -1,0 +1,1812 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3A13D4C3226C3BB90036CCAA /* iPhone6Plus_map_30.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D491226C3BB60036CCAA /* iPhone6Plus_map_30.txt */; };
+		3A13D4C4226C3BB90036CCAA /* iPhone6Plus_map_3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D492226C3BB60036CCAA /* iPhone6Plus_map_3.txt */; };
+		3A13D4C5226C3BB90036CCAA /* iPhone6Plus_map_23.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D493226C3BB60036CCAA /* iPhone6Plus_map_23.txt */; };
+		3A13D4C6226C3BB90036CCAA /* iPhone6Plus_map_39.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D494226C3BB60036CCAA /* iPhone6Plus_map_39.txt */; };
+		3A13D4C7226C3BB90036CCAA /* iPhone6Plus_map_34.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D495226C3BB60036CCAA /* iPhone6Plus_map_34.txt */; };
+		3A13D4C8226C3BB90036CCAA /* iPhone6Plus_map_5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D496226C3BB60036CCAA /* iPhone6Plus_map_5.txt */; };
+		3A13D4C9226C3BB90036CCAA /* iPhone6Plus_map_35.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D497226C3BB60036CCAA /* iPhone6Plus_map_35.txt */; };
+		3A13D4CA226C3BB90036CCAA /* iPhone6Plus_map_13.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D498226C3BB60036CCAA /* iPhone6Plus_map_13.txt */; };
+		3A13D4CB226C3BB90036CCAA /* iPhone6Plus_map_7.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D499226C3BB60036CCAA /* iPhone6Plus_map_7.txt */; };
+		3A13D4CC226C3BB90036CCAA /* iPhone6Plus_map_19.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D49A226C3BB60036CCAA /* iPhone6Plus_map_19.txt */; };
+		3A13D4CD226C3BB90036CCAA /* iPhone6Plus_map_8.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D49B226C3BB60036CCAA /* iPhone6Plus_map_8.txt */; };
+		3A13D4CE226C3BB90036CCAA /* iPhone6Plus_map_15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D49C226C3BB60036CCAA /* iPhone6Plus_map_15.txt */; };
+		3A13D4CF226C3BB90036CCAA /* iPhone6Plus_map_31.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D49D226C3BB60036CCAA /* iPhone6Plus_map_31.txt */; };
+		3A13D4D0226C3BB90036CCAA /* iPhone6Plus_map_9.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D49E226C3BB60036CCAA /* iPhone6Plus_map_9.txt */; };
+		3A13D4D1226C3BB90036CCAA /* iPhone6Plus_map_33.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D49F226C3BB60036CCAA /* iPhone6Plus_map_33.txt */; };
+		3A13D4D2226C3BB90036CCAA /* iPhone6Plus_map_27.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4A0226C3BB70036CCAA /* iPhone6Plus_map_27.txt */; };
+		3A13D4D3226C3BB90036CCAA /* iPhone6Plus_map_36.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4A1226C3BB70036CCAA /* iPhone6Plus_map_36.txt */; };
+		3A13D4D4226C3BB90036CCAA /* iPhone6Plus_map_29.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4A2226C3BB70036CCAA /* iPhone6Plus_map_29.txt */; };
+		3A13D4D5226C3BB90036CCAA /* iPhone6Plus_map_22.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4A3226C3BB70036CCAA /* iPhone6Plus_map_22.txt */; };
+		3A13D4D6226C3BB90036CCAA /* iPhone6Plus_map_43.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4A4226C3BB70036CCAA /* iPhone6Plus_map_43.txt */; };
+		3A13D4D7226C3BB90036CCAA /* iPhone6Plus_map_46.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4A5226C3BB70036CCAA /* iPhone6Plus_map_46.txt */; };
+		3A13D4D8226C3BB90036CCAA /* iPhone6Plus_map_38.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4A6226C3BB70036CCAA /* iPhone6Plus_map_38.txt */; };
+		3A13D4D9226C3BB90036CCAA /* iPhone6Plus_map_26.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4A7226C3BB70036CCAA /* iPhone6Plus_map_26.txt */; };
+		3A13D4DA226C3BB90036CCAA /* iPhone6Plus_map_37.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4A8226C3BB70036CCAA /* iPhone6Plus_map_37.txt */; };
+		3A13D4DB226C3BB90036CCAA /* iPhone6Plus_map_25.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4A9226C3BB70036CCAA /* iPhone6Plus_map_25.txt */; };
+		3A13D4DC226C3BB90036CCAA /* iPhone6Plus_map_48.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4AA226C3BB70036CCAA /* iPhone6Plus_map_48.txt */; };
+		3A13D4DD226C3BB90036CCAA /* iPhone6Plus_map_6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4AB226C3BB70036CCAA /* iPhone6Plus_map_6.txt */; };
+		3A13D4DE226C3BB90036CCAA /* iPhone6Plus_map_40.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4AC226C3BB70036CCAA /* iPhone6Plus_map_40.txt */; };
+		3A13D4DF226C3BB90036CCAA /* iPhone6Plus_map_4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4AD226C3BB70036CCAA /* iPhone6Plus_map_4.txt */; };
+		3A13D4E0226C3BB90036CCAA /* iPhone6Plus_map_44.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4AE226C3BB70036CCAA /* iPhone6Plus_map_44.txt */; };
+		3A13D4E1226C3BB90036CCAA /* iPhone6Plus_map_16.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4AF226C3BB70036CCAA /* iPhone6Plus_map_16.txt */; };
+		3A13D4E2226C3BB90036CCAA /* iPhone6Plus_map_20.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4B0226C3BB80036CCAA /* iPhone6Plus_map_20.txt */; };
+		3A13D4E3226C3BB90036CCAA /* iPhone6Plus_map_24.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4B1226C3BB80036CCAA /* iPhone6Plus_map_24.txt */; };
+		3A13D4E4226C3BB90036CCAA /* iPhone6Plus_map_32.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4B2226C3BB80036CCAA /* iPhone6Plus_map_32.txt */; };
+		3A13D4E5226C3BB90036CCAA /* iPhone6Plus_map_12.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4B3226C3BB80036CCAA /* iPhone6Plus_map_12.txt */; };
+		3A13D4E6226C3BB90036CCAA /* iPhone6Plus_map_11.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4B4226C3BB80036CCAA /* iPhone6Plus_map_11.txt */; };
+		3A13D4E7226C3BB90036CCAA /* iPhone6Plus_map_14.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4B5226C3BB80036CCAA /* iPhone6Plus_map_14.txt */; };
+		3A13D4E8226C3BB90036CCAA /* iPhone6Plus_map_28.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4B6226C3BB80036CCAA /* iPhone6Plus_map_28.txt */; };
+		3A13D4E9226C3BB90036CCAA /* iPhone6Plus_map_1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4B7226C3BB80036CCAA /* iPhone6Plus_map_1.txt */; };
+		3A13D4EA226C3BB90036CCAA /* iPhone6Plus_map_45.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4B8226C3BB80036CCAA /* iPhone6Plus_map_45.txt */; };
+		3A13D4EB226C3BB90036CCAA /* iPhone6Plus_map_21.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4B9226C3BB80036CCAA /* iPhone6Plus_map_21.txt */; };
+		3A13D4EC226C3BB90036CCAA /* iPhone6Plus_map_50.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4BA226C3BB80036CCAA /* iPhone6Plus_map_50.txt */; };
+		3A13D4ED226C3BB90036CCAA /* iPhone6Plus_map_2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4BB226C3BB80036CCAA /* iPhone6Plus_map_2.txt */; };
+		3A13D4EE226C3BB90036CCAA /* iPhone6Plus_map_41.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4BC226C3BB80036CCAA /* iPhone6Plus_map_41.txt */; };
+		3A13D4EF226C3BB90036CCAA /* iPhone6Plus_map_10.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4BD226C3BB80036CCAA /* iPhone6Plus_map_10.txt */; };
+		3A13D4F0226C3BB90036CCAA /* iPhone6Plus_map_49.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4BE226C3BB80036CCAA /* iPhone6Plus_map_49.txt */; };
+		3A13D4F1226C3BB90036CCAA /* iPhone6Plus_map_42.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4BF226C3BB80036CCAA /* iPhone6Plus_map_42.txt */; };
+		3A13D4F2226C3BB90036CCAA /* iPhone6Plus_map_17.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4C0226C3BB90036CCAA /* iPhone6Plus_map_17.txt */; };
+		3A13D4F3226C3BB90036CCAA /* iPhone6Plus_map_18.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4C1226C3BB90036CCAA /* iPhone6Plus_map_18.txt */; };
+		3A13D4F4226C3BB90036CCAA /* iPhone6Plus_map_47.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D4C2226C3BB90036CCAA /* iPhone6Plus_map_47.txt */; };
+		3A13D5AD226C6F210036CCAA /* iPhone5_map_29.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D57B226C6F1E0036CCAA /* iPhone5_map_29.txt */; };
+		3A13D5AE226C6F210036CCAA /* iPhone5_map_43.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D57C226C6F1E0036CCAA /* iPhone5_map_43.txt */; };
+		3A13D5AF226C6F210036CCAA /* iPhone5_map_40.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D57D226C6F1E0036CCAA /* iPhone5_map_40.txt */; };
+		3A13D5B0226C6F210036CCAA /* iPhone5_map_39.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D57E226C6F1E0036CCAA /* iPhone5_map_39.txt */; };
+		3A13D5B1226C6F210036CCAA /* iPhone5_map_12.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D57F226C6F1E0036CCAA /* iPhone5_map_12.txt */; };
+		3A13D5B2226C6F210036CCAA /* iPhone5_map_47.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D580226C6F1F0036CCAA /* iPhone5_map_47.txt */; };
+		3A13D5B3226C6F210036CCAA /* iPhone5_map_30.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D581226C6F1F0036CCAA /* iPhone5_map_30.txt */; };
+		3A13D5B4226C6F210036CCAA /* iPhone5_map_1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D582226C6F1F0036CCAA /* iPhone5_map_1.txt */; };
+		3A13D5B5226C6F210036CCAA /* iPhone5_map_45.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D583226C6F1F0036CCAA /* iPhone5_map_45.txt */; };
+		3A13D5B6226C6F210036CCAA /* iPhone5_map_48.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D584226C6F1F0036CCAA /* iPhone5_map_48.txt */; };
+		3A13D5B7226C6F210036CCAA /* iPhone5_map_25.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D585226C6F1F0036CCAA /* iPhone5_map_25.txt */; };
+		3A13D5B8226C6F210036CCAA /* iPhone5_map_11.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D586226C6F1F0036CCAA /* iPhone5_map_11.txt */; };
+		3A13D5B9226C6F210036CCAA /* iPhone5_map_4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D587226C6F1F0036CCAA /* iPhone5_map_4.txt */; };
+		3A13D5BA226C6F210036CCAA /* iPhone5_map_15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D588226C6F1F0036CCAA /* iPhone5_map_15.txt */; };
+		3A13D5BB226C6F210036CCAA /* iPhone5_map_16.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D589226C6F1F0036CCAA /* iPhone5_map_16.txt */; };
+		3A13D5BC226C6F210036CCAA /* iPhone5_map_17.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D58A226C6F1F0036CCAA /* iPhone5_map_17.txt */; };
+		3A13D5BD226C6F210036CCAA /* iPhone5_map_35.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D58B226C6F1F0036CCAA /* iPhone5_map_35.txt */; };
+		3A13D5BE226C6F210036CCAA /* iPhone5_map_3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D58C226C6F1F0036CCAA /* iPhone5_map_3.txt */; };
+		3A13D5BF226C6F210036CCAA /* iPhone5_map_5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D58D226C6F1F0036CCAA /* iPhone5_map_5.txt */; };
+		3A13D5C0226C6F210036CCAA /* iPhone5_map_37.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D58E226C6F1F0036CCAA /* iPhone5_map_37.txt */; };
+		3A13D5C1226C6F210036CCAA /* iPhone5_map_49.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D58F226C6F1F0036CCAA /* iPhone5_map_49.txt */; };
+		3A13D5C2226C6F210036CCAA /* iPhone5_map_20.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D590226C6F1F0036CCAA /* iPhone5_map_20.txt */; };
+		3A13D5C3226C6F210036CCAA /* iPhone5_map_26.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D591226C6F1F0036CCAA /* iPhone5_map_26.txt */; };
+		3A13D5C4226C6F210036CCAA /* iPhone5_map_36.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D592226C6F200036CCAA /* iPhone5_map_36.txt */; };
+		3A13D5C5226C6F210036CCAA /* iPhone5_map_8.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D593226C6F200036CCAA /* iPhone5_map_8.txt */; };
+		3A13D5C6226C6F210036CCAA /* iPhone5_map_18.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D594226C6F200036CCAA /* iPhone5_map_18.txt */; };
+		3A13D5C7226C6F210036CCAA /* iPhone5_map_50.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D595226C6F200036CCAA /* iPhone5_map_50.txt */; };
+		3A13D5C8226C6F210036CCAA /* iPhone5_map_14.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D596226C6F200036CCAA /* iPhone5_map_14.txt */; };
+		3A13D5C9226C6F210036CCAA /* iPhone5_map_44.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D597226C6F200036CCAA /* iPhone5_map_44.txt */; };
+		3A13D5CA226C6F210036CCAA /* iPhone5_map_41.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D598226C6F200036CCAA /* iPhone5_map_41.txt */; };
+		3A13D5CB226C6F210036CCAA /* iPhone5_map_31.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D599226C6F200036CCAA /* iPhone5_map_31.txt */; };
+		3A13D5CC226C6F210036CCAA /* iPhone5_map_28.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D59A226C6F200036CCAA /* iPhone5_map_28.txt */; };
+		3A13D5CD226C6F210036CCAA /* iPhone5_map_33.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D59B226C6F200036CCAA /* iPhone5_map_33.txt */; };
+		3A13D5CE226C6F210036CCAA /* iPhone5_map_10.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D59C226C6F200036CCAA /* iPhone5_map_10.txt */; };
+		3A13D5CF226C6F210036CCAA /* iPhone5_map_19.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D59D226C6F200036CCAA /* iPhone5_map_19.txt */; };
+		3A13D5D0226C6F210036CCAA /* iPhone5_map_24.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D59E226C6F200036CCAA /* iPhone5_map_24.txt */; };
+		3A13D5D1226C6F210036CCAA /* iPhone5_map_42.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D59F226C6F200036CCAA /* iPhone5_map_42.txt */; };
+		3A13D5D2226C6F210036CCAA /* iPhone5_map_46.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5A0226C6F200036CCAA /* iPhone5_map_46.txt */; };
+		3A13D5D3226C6F210036CCAA /* iPhone5_map_32.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5A1226C6F210036CCAA /* iPhone5_map_32.txt */; };
+		3A13D5D4226C6F210036CCAA /* iPhone5_map_21.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5A2226C6F210036CCAA /* iPhone5_map_21.txt */; };
+		3A13D5D5226C6F210036CCAA /* iPhone5_map_22.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5A3226C6F210036CCAA /* iPhone5_map_22.txt */; };
+		3A13D5D6226C6F210036CCAA /* iPhone5_map_7.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5A4226C6F210036CCAA /* iPhone5_map_7.txt */; };
+		3A13D5D7226C6F210036CCAA /* iPhone5_map_27.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5A5226C6F210036CCAA /* iPhone5_map_27.txt */; };
+		3A13D5D8226C6F210036CCAA /* iPhone5_map_6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5A6226C6F210036CCAA /* iPhone5_map_6.txt */; };
+		3A13D5D9226C6F210036CCAA /* iPhone5_map_9.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5A7226C6F210036CCAA /* iPhone5_map_9.txt */; };
+		3A13D5DA226C6F210036CCAA /* iPhone5_map_13.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5A8226C6F210036CCAA /* iPhone5_map_13.txt */; };
+		3A13D5DB226C6F210036CCAA /* iPhone5_map_2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5A9226C6F210036CCAA /* iPhone5_map_2.txt */; };
+		3A13D5DC226C6F210036CCAA /* iPhone5_map_23.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5AA226C6F210036CCAA /* iPhone5_map_23.txt */; };
+		3A13D5DD226C6F210036CCAA /* iPhone5_map_38.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5AB226C6F210036CCAA /* iPhone5_map_38.txt */; };
+		3A13D5DE226C6F210036CCAA /* iPhone5_map_34.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A13D5AC226C6F210036CCAA /* iPhone5_map_34.txt */; };
+		3A6D2979226759A400ED85C4 /* iPhone8_map_18.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2947226759A200ED85C4 /* iPhone8_map_18.txt */; };
+		3A6D297A226759A400ED85C4 /* iPhone8_map_49.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2948226759A200ED85C4 /* iPhone8_map_49.txt */; };
+		3A6D297B226759A400ED85C4 /* iPhone8_map_4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2949226759A200ED85C4 /* iPhone8_map_4.txt */; };
+		3A6D297C226759A400ED85C4 /* iPhone8_map_22.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D294A226759A200ED85C4 /* iPhone8_map_22.txt */; };
+		3A6D297D226759A400ED85C4 /* iPhone8_map_23.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D294B226759A200ED85C4 /* iPhone8_map_23.txt */; };
+		3A6D297E226759A400ED85C4 /* iPhone8_map_12.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D294C226759A200ED85C4 /* iPhone8_map_12.txt */; };
+		3A6D297F226759A400ED85C4 /* iPhone8_map_35.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D294D226759A200ED85C4 /* iPhone8_map_35.txt */; };
+		3A6D2980226759A400ED85C4 /* iPhone8_map_1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D294E226759A200ED85C4 /* iPhone8_map_1.txt */; };
+		3A6D2981226759A400ED85C4 /* iPhone8_map_50.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D294F226759A200ED85C4 /* iPhone8_map_50.txt */; };
+		3A6D2982226759A400ED85C4 /* iPhone8_map_7.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2950226759A200ED85C4 /* iPhone8_map_7.txt */; };
+		3A6D2983226759A400ED85C4 /* iPhone8_map_21.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2951226759A200ED85C4 /* iPhone8_map_21.txt */; };
+		3A6D2984226759A400ED85C4 /* iPhone8_map_14.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2952226759A200ED85C4 /* iPhone8_map_14.txt */; };
+		3A6D2985226759A400ED85C4 /* iPhone8_map_43.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2953226759A200ED85C4 /* iPhone8_map_43.txt */; };
+		3A6D2986226759A400ED85C4 /* iPhone8_map_36.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2954226759A200ED85C4 /* iPhone8_map_36.txt */; };
+		3A6D2987226759A400ED85C4 /* iPhone8_map_16.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2955226759A200ED85C4 /* iPhone8_map_16.txt */; };
+		3A6D2988226759A400ED85C4 /* iPhone8_map_41.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2956226759A200ED85C4 /* iPhone8_map_41.txt */; };
+		3A6D2989226759A400ED85C4 /* iPhone8_map_8.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2957226759A200ED85C4 /* iPhone8_map_8.txt */; };
+		3A6D298A226759A400ED85C4 /* iPhone8_map_13.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2958226759A300ED85C4 /* iPhone8_map_13.txt */; };
+		3A6D298B226759A400ED85C4 /* iPhone8_map_31.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2959226759A300ED85C4 /* iPhone8_map_31.txt */; };
+		3A6D298C226759A400ED85C4 /* iPhone8_map_2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D295A226759A300ED85C4 /* iPhone8_map_2.txt */; };
+		3A6D298D226759A400ED85C4 /* iPhone8_map_29.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D295B226759A300ED85C4 /* iPhone8_map_29.txt */; };
+		3A6D298E226759A400ED85C4 /* iPhone8_map_24.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D295C226759A300ED85C4 /* iPhone8_map_24.txt */; };
+		3A6D298F226759A400ED85C4 /* iPhone8_map_33.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D295D226759A300ED85C4 /* iPhone8_map_33.txt */; };
+		3A6D2990226759A400ED85C4 /* iPhone8_map_42.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D295E226759A300ED85C4 /* iPhone8_map_42.txt */; };
+		3A6D2991226759A400ED85C4 /* iPhone8_map_32.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D295F226759A300ED85C4 /* iPhone8_map_32.txt */; };
+		3A6D2992226759A400ED85C4 /* iPhone8_map_44.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2960226759A300ED85C4 /* iPhone8_map_44.txt */; };
+		3A6D2993226759A400ED85C4 /* iPhone8_map_9.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2961226759A300ED85C4 /* iPhone8_map_9.txt */; };
+		3A6D2994226759A400ED85C4 /* iPhone8_map_11.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2962226759A300ED85C4 /* iPhone8_map_11.txt */; };
+		3A6D2995226759A400ED85C4 /* iPhone8_map_30.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2963226759A300ED85C4 /* iPhone8_map_30.txt */; };
+		3A6D2996226759A400ED85C4 /* iPhone8_map_47.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2964226759A300ED85C4 /* iPhone8_map_47.txt */; };
+		3A6D2997226759A400ED85C4 /* iPhone8_map_39.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2965226759A300ED85C4 /* iPhone8_map_39.txt */; };
+		3A6D2998226759A400ED85C4 /* iPhone8_map_20.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2966226759A300ED85C4 /* iPhone8_map_20.txt */; };
+		3A6D2999226759A400ED85C4 /* iPhone8_map_25.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2967226759A300ED85C4 /* iPhone8_map_25.txt */; };
+		3A6D299A226759A400ED85C4 /* iPhone8_map_37.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2968226759A300ED85C4 /* iPhone8_map_37.txt */; };
+		3A6D299B226759A400ED85C4 /* iPhone8_map_45.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2969226759A300ED85C4 /* iPhone8_map_45.txt */; };
+		3A6D299C226759A400ED85C4 /* iPhone8_map_28.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D296A226759A300ED85C4 /* iPhone8_map_28.txt */; };
+		3A6D299D226759A400ED85C4 /* iPhone8_map_3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D296B226759A300ED85C4 /* iPhone8_map_3.txt */; };
+		3A6D299E226759A400ED85C4 /* iPhone8_map_46.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D296C226759A300ED85C4 /* iPhone8_map_46.txt */; };
+		3A6D299F226759A400ED85C4 /* iPhone8_map_26.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D296D226759A300ED85C4 /* iPhone8_map_26.txt */; };
+		3A6D29A0226759A400ED85C4 /* iPhone8_map_10.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D296E226759A300ED85C4 /* iPhone8_map_10.txt */; };
+		3A6D29A1226759A400ED85C4 /* iPhone8_map_40.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D296F226759A300ED85C4 /* iPhone8_map_40.txt */; };
+		3A6D29A2226759A400ED85C4 /* iPhone8_map_6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2970226759A400ED85C4 /* iPhone8_map_6.txt */; };
+		3A6D29A3226759A400ED85C4 /* iPhone8_map_27.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2971226759A400ED85C4 /* iPhone8_map_27.txt */; };
+		3A6D29A4226759A400ED85C4 /* iPhone8_map_38.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2972226759A400ED85C4 /* iPhone8_map_38.txt */; };
+		3A6D29A5226759A400ED85C4 /* iPhone8_map_5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2973226759A400ED85C4 /* iPhone8_map_5.txt */; };
+		3A6D29A6226759A400ED85C4 /* iPhone8_map_19.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2974226759A400ED85C4 /* iPhone8_map_19.txt */; };
+		3A6D29A7226759A400ED85C4 /* iPhone8_map_15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2975226759A400ED85C4 /* iPhone8_map_15.txt */; };
+		3A6D29A8226759A400ED85C4 /* iPhone8_map_34.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2976226759A400ED85C4 /* iPhone8_map_34.txt */; };
+		3A6D29A9226759A400ED85C4 /* iPhone8_map_48.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2977226759A400ED85C4 /* iPhone8_map_48.txt */; };
+		3A6D29AA226759A400ED85C4 /* iPhone8_map_17.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3A6D2978226759A400ED85C4 /* iPhone8_map_17.txt */; };
+		3A8DBDC4224FA42E003F3D4C /* 胜利音乐.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3A8DBDC3224FA42E003F3D4C /* 胜利音乐.mp3 */; };
+		3AA746FE2247624200C537D2 /* FlowersNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AA746FD2247624200C537D2 /* FlowersNode.m */; };
+		3ABC578722466ECC0031A591 /* LevelLabelNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 3ABC578622466ECC0031A591 /* LevelLabelNode.m */; };
+		3AC3BECC225043260053A6BE /* DenLongNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 3AC3BECA225043260053A6BE /* DenLongNode.m */; };
+		3ACE1846226AE9E0000C5ED0 /* iPhoneX_map_10.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1814226AE9DE000C5ED0 /* iPhoneX_map_10.txt */; };
+		3ACE1847226AE9E0000C5ED0 /* iPhoneX_map_24.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1815226AE9DE000C5ED0 /* iPhoneX_map_24.txt */; };
+		3ACE1848226AE9E0000C5ED0 /* iPhoneX_map_41.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1816226AE9DE000C5ED0 /* iPhoneX_map_41.txt */; };
+		3ACE1849226AE9E0000C5ED0 /* iPhoneX_map_46.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1817226AE9DE000C5ED0 /* iPhoneX_map_46.txt */; };
+		3ACE184A226AE9E0000C5ED0 /* iPhoneX_map_20.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1818226AE9DF000C5ED0 /* iPhoneX_map_20.txt */; };
+		3ACE184B226AE9E0000C5ED0 /* iPhoneX_map_39.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1819226AE9DF000C5ED0 /* iPhoneX_map_39.txt */; };
+		3ACE184C226AE9E0000C5ED0 /* iPhoneX_map_28.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE181A226AE9DF000C5ED0 /* iPhoneX_map_28.txt */; };
+		3ACE184D226AE9E0000C5ED0 /* iPhoneX_map_11.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE181B226AE9DF000C5ED0 /* iPhoneX_map_11.txt */; };
+		3ACE184E226AE9E0000C5ED0 /* iPhoneX_map_29.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE181C226AE9DF000C5ED0 /* iPhoneX_map_29.txt */; };
+		3ACE184F226AE9E0000C5ED0 /* iPhoneX_map_50.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE181D226AE9DF000C5ED0 /* iPhoneX_map_50.txt */; };
+		3ACE1850226AE9E0000C5ED0 /* iPhoneX_map_43.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE181E226AE9DF000C5ED0 /* iPhoneX_map_43.txt */; };
+		3ACE1851226AE9E0000C5ED0 /* iPhoneX_map_7.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE181F226AE9DF000C5ED0 /* iPhoneX_map_7.txt */; };
+		3ACE1852226AE9E0000C5ED0 /* iPhoneX_map_16.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1820226AE9DF000C5ED0 /* iPhoneX_map_16.txt */; };
+		3ACE1853226AE9E0000C5ED0 /* iPhoneX_map_32.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1821226AE9DF000C5ED0 /* iPhoneX_map_32.txt */; };
+		3ACE1854226AE9E0000C5ED0 /* iPhoneX_map_25.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1822226AE9DF000C5ED0 /* iPhoneX_map_25.txt */; };
+		3ACE1855226AE9E0000C5ED0 /* iPhoneX_map_2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1823226AE9DF000C5ED0 /* iPhoneX_map_2.txt */; };
+		3ACE1856226AE9E0000C5ED0 /* iPhoneX_map_9.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1824226AE9DF000C5ED0 /* iPhoneX_map_9.txt */; };
+		3ACE1857226AE9E0000C5ED0 /* iPhoneX_map_12.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1825226AE9DF000C5ED0 /* iPhoneX_map_12.txt */; };
+		3ACE1858226AE9E0000C5ED0 /* iPhoneX_map_49.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1826226AE9DF000C5ED0 /* iPhoneX_map_49.txt */; };
+		3ACE1859226AE9E0000C5ED0 /* iPhoneX_map_1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1827226AE9DF000C5ED0 /* iPhoneX_map_1.txt */; };
+		3ACE185A226AE9E0000C5ED0 /* iPhoneX_map_4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1828226AE9DF000C5ED0 /* iPhoneX_map_4.txt */; };
+		3ACE185B226AE9E0000C5ED0 /* iPhoneX_map_47.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1829226AE9DF000C5ED0 /* iPhoneX_map_47.txt */; };
+		3ACE185C226AE9E0000C5ED0 /* iPhoneX_map_31.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE182A226AE9DF000C5ED0 /* iPhoneX_map_31.txt */; };
+		3ACE185D226AE9E0000C5ED0 /* iPhoneX_map_34.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE182B226AE9DF000C5ED0 /* iPhoneX_map_34.txt */; };
+		3ACE185E226AE9E0000C5ED0 /* iPhoneX_map_27.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE182C226AE9DF000C5ED0 /* iPhoneX_map_27.txt */; };
+		3ACE185F226AE9E0000C5ED0 /* iPhoneX_map_13.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE182D226AE9DF000C5ED0 /* iPhoneX_map_13.txt */; };
+		3ACE1860226AE9E0000C5ED0 /* iPhoneX_map_33.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE182E226AE9DF000C5ED0 /* iPhoneX_map_33.txt */; };
+		3ACE1861226AE9E0000C5ED0 /* iPhoneX_map_37.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE182F226AE9DF000C5ED0 /* iPhoneX_map_37.txt */; };
+		3ACE1862226AE9E0000C5ED0 /* iPhoneX_map_26.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1830226AE9DF000C5ED0 /* iPhoneX_map_26.txt */; };
+		3ACE1863226AE9E0000C5ED0 /* iPhoneX_map_35.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1831226AE9DF000C5ED0 /* iPhoneX_map_35.txt */; };
+		3ACE1864226AE9E0000C5ED0 /* iPhoneX_map_8.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1832226AE9DF000C5ED0 /* iPhoneX_map_8.txt */; };
+		3ACE1865226AE9E0000C5ED0 /* iPhoneX_map_36.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1833226AE9E0000C5ED0 /* iPhoneX_map_36.txt */; };
+		3ACE1866226AE9E0000C5ED0 /* iPhoneX_map_42.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1834226AE9E0000C5ED0 /* iPhoneX_map_42.txt */; };
+		3ACE1867226AE9E0000C5ED0 /* iPhoneX_map_5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1835226AE9E0000C5ED0 /* iPhoneX_map_5.txt */; };
+		3ACE1868226AE9E0000C5ED0 /* iPhoneX_map_3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1836226AE9E0000C5ED0 /* iPhoneX_map_3.txt */; };
+		3ACE1869226AE9E0000C5ED0 /* iPhoneX_map_40.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1837226AE9E0000C5ED0 /* iPhoneX_map_40.txt */; };
+		3ACE186A226AE9E0000C5ED0 /* iPhoneX_map_18.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1838226AE9E0000C5ED0 /* iPhoneX_map_18.txt */; };
+		3ACE186B226AE9E0000C5ED0 /* iPhoneX_map_14.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1839226AE9E0000C5ED0 /* iPhoneX_map_14.txt */; };
+		3ACE186C226AE9E0000C5ED0 /* iPhoneX_map_15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE183A226AE9E0000C5ED0 /* iPhoneX_map_15.txt */; };
+		3ACE186D226AE9E0000C5ED0 /* iPhoneX_map_23.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE183B226AE9E0000C5ED0 /* iPhoneX_map_23.txt */; };
+		3ACE186E226AE9E0000C5ED0 /* iPhoneX_map_45.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE183C226AE9E0000C5ED0 /* iPhoneX_map_45.txt */; };
+		3ACE186F226AE9E0000C5ED0 /* iPhoneX_map_30.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE183D226AE9E0000C5ED0 /* iPhoneX_map_30.txt */; };
+		3ACE1870226AE9E0000C5ED0 /* iPhoneX_map_38.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE183E226AE9E0000C5ED0 /* iPhoneX_map_38.txt */; };
+		3ACE1871226AE9E0000C5ED0 /* iPhoneX_map_19.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE183F226AE9E0000C5ED0 /* iPhoneX_map_19.txt */; };
+		3ACE1872226AE9E0000C5ED0 /* iPhoneX_map_48.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1840226AE9E0000C5ED0 /* iPhoneX_map_48.txt */; };
+		3ACE1873226AE9E0000C5ED0 /* iPhoneX_map_44.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1841226AE9E0000C5ED0 /* iPhoneX_map_44.txt */; };
+		3ACE1874226AE9E0000C5ED0 /* iPhoneX_map_17.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1842226AE9E0000C5ED0 /* iPhoneX_map_17.txt */; };
+		3ACE1875226AE9E0000C5ED0 /* iPhoneX_map_6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1843226AE9E0000C5ED0 /* iPhoneX_map_6.txt */; };
+		3ACE1876226AE9E0000C5ED0 /* iPhoneX_map_21.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1844226AE9E0000C5ED0 /* iPhoneX_map_21.txt */; };
+		3ACE1877226AE9E0000C5ED0 /* iPhoneX_map_22.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1845226AE9E0000C5ED0 /* iPhoneX_map_22.txt */; };
+		3ACE195C226B1E68000C5ED0 /* iPhoneXr_map_39.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE192A226B1E64000C5ED0 /* iPhoneXr_map_39.txt */; };
+		3ACE195D226B1E68000C5ED0 /* iPhoneXr_map_29.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE192B226B1E64000C5ED0 /* iPhoneXr_map_29.txt */; };
+		3ACE195E226B1E68000C5ED0 /* iPhoneXr_map_7.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE192C226B1E64000C5ED0 /* iPhoneXr_map_7.txt */; };
+		3ACE195F226B1E68000C5ED0 /* iPhoneXr_map_35.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE192D226B1E64000C5ED0 /* iPhoneXr_map_35.txt */; };
+		3ACE1960226B1E68000C5ED0 /* iPhoneXr_map_28.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE192E226B1E64000C5ED0 /* iPhoneXr_map_28.txt */; };
+		3ACE1961226B1E68000C5ED0 /* iPhoneXr_map_12.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE192F226B1E64000C5ED0 /* iPhoneXr_map_12.txt */; };
+		3ACE1962226B1E68000C5ED0 /* iPhoneXr_map_6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1930226B1E64000C5ED0 /* iPhoneXr_map_6.txt */; };
+		3ACE1963226B1E68000C5ED0 /* iPhoneXr_map_41.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1931226B1E64000C5ED0 /* iPhoneXr_map_41.txt */; };
+		3ACE1964226B1E68000C5ED0 /* iPhoneXr_map_18.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1932226B1E64000C5ED0 /* iPhoneXr_map_18.txt */; };
+		3ACE1965226B1E68000C5ED0 /* iPhoneXr_map_26.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1933226B1E64000C5ED0 /* iPhoneXr_map_26.txt */; };
+		3ACE1966226B1E68000C5ED0 /* iPhoneXr_map_49.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1934226B1E64000C5ED0 /* iPhoneXr_map_49.txt */; };
+		3ACE1967226B1E68000C5ED0 /* iPhoneXr_map_19.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1935226B1E64000C5ED0 /* iPhoneXr_map_19.txt */; };
+		3ACE1968226B1E68000C5ED0 /* iPhoneXr_map_34.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1936226B1E64000C5ED0 /* iPhoneXr_map_34.txt */; };
+		3ACE1969226B1E68000C5ED0 /* iPhoneXr_map_43.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1937226B1E64000C5ED0 /* iPhoneXr_map_43.txt */; };
+		3ACE196A226B1E68000C5ED0 /* iPhoneXr_map_20.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1938226B1E65000C5ED0 /* iPhoneXr_map_20.txt */; };
+		3ACE196B226B1E68000C5ED0 /* iPhoneXr_map_32.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1939226B1E65000C5ED0 /* iPhoneXr_map_32.txt */; };
+		3ACE196C226B1E68000C5ED0 /* iPhoneXr_map_48.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE193A226B1E65000C5ED0 /* iPhoneXr_map_48.txt */; };
+		3ACE196D226B1E68000C5ED0 /* iPhoneXr_map_14.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE193B226B1E65000C5ED0 /* iPhoneXr_map_14.txt */; };
+		3ACE196E226B1E68000C5ED0 /* iPhoneXr_map_4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE193C226B1E65000C5ED0 /* iPhoneXr_map_4.txt */; };
+		3ACE196F226B1E68000C5ED0 /* iPhoneXr_map_16.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE193D226B1E65000C5ED0 /* iPhoneXr_map_16.txt */; };
+		3ACE1970226B1E68000C5ED0 /* iPhoneXr_map_1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE193E226B1E65000C5ED0 /* iPhoneXr_map_1.txt */; };
+		3ACE1971226B1E68000C5ED0 /* iPhoneXr_map_50.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE193F226B1E65000C5ED0 /* iPhoneXr_map_50.txt */; };
+		3ACE1972226B1E68000C5ED0 /* iPhoneXr_map_9.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1940226B1E65000C5ED0 /* iPhoneXr_map_9.txt */; };
+		3ACE1973226B1E68000C5ED0 /* iPhoneXr_map_13.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1941226B1E65000C5ED0 /* iPhoneXr_map_13.txt */; };
+		3ACE1974226B1E68000C5ED0 /* iPhoneXr_map_45.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1942226B1E65000C5ED0 /* iPhoneXr_map_45.txt */; };
+		3ACE1975226B1E68000C5ED0 /* iPhoneXr_map_11.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1943226B1E65000C5ED0 /* iPhoneXr_map_11.txt */; };
+		3ACE1976226B1E68000C5ED0 /* iPhoneXr_map_38.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1944226B1E66000C5ED0 /* iPhoneXr_map_38.txt */; };
+		3ACE1977226B1E68000C5ED0 /* iPhoneXr_map_40.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1945226B1E66000C5ED0 /* iPhoneXr_map_40.txt */; };
+		3ACE1978226B1E68000C5ED0 /* iPhoneXr_map_36.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1946226B1E66000C5ED0 /* iPhoneXr_map_36.txt */; };
+		3ACE1979226B1E68000C5ED0 /* iPhoneXr_map_47.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1947226B1E66000C5ED0 /* iPhoneXr_map_47.txt */; };
+		3ACE197A226B1E68000C5ED0 /* iPhoneXr_map_30.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1948226B1E66000C5ED0 /* iPhoneXr_map_30.txt */; };
+		3ACE197B226B1E68000C5ED0 /* iPhoneXr_map_5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1949226B1E66000C5ED0 /* iPhoneXr_map_5.txt */; };
+		3ACE197C226B1E68000C5ED0 /* iPhoneXr_map_33.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE194A226B1E66000C5ED0 /* iPhoneXr_map_33.txt */; };
+		3ACE197D226B1E68000C5ED0 /* iPhoneXr_map_17.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE194B226B1E66000C5ED0 /* iPhoneXr_map_17.txt */; };
+		3ACE197E226B1E68000C5ED0 /* iPhoneXr_map_24.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE194C226B1E66000C5ED0 /* iPhoneXr_map_24.txt */; };
+		3ACE197F226B1E68000C5ED0 /* iPhoneXr_map_22.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE194D226B1E66000C5ED0 /* iPhoneXr_map_22.txt */; };
+		3ACE1980226B1E68000C5ED0 /* iPhoneXr_map_3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE194E226B1E67000C5ED0 /* iPhoneXr_map_3.txt */; };
+		3ACE1981226B1E68000C5ED0 /* iPhoneXr_map_42.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE194F226B1E67000C5ED0 /* iPhoneXr_map_42.txt */; };
+		3ACE1982226B1E68000C5ED0 /* iPhoneXr_map_23.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1950226B1E67000C5ED0 /* iPhoneXr_map_23.txt */; };
+		3ACE1983226B1E68000C5ED0 /* iPhoneXr_map_46.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1951226B1E67000C5ED0 /* iPhoneXr_map_46.txt */; };
+		3ACE1984226B1E68000C5ED0 /* iPhoneXr_map_21.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1952226B1E67000C5ED0 /* iPhoneXr_map_21.txt */; };
+		3ACE1985226B1E68000C5ED0 /* iPhoneXr_map_8.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1953226B1E67000C5ED0 /* iPhoneXr_map_8.txt */; };
+		3ACE1986226B1E68000C5ED0 /* iPhoneXr_map_44.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1954226B1E67000C5ED0 /* iPhoneXr_map_44.txt */; };
+		3ACE1987226B1E68000C5ED0 /* iPhoneXr_map_10.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1955226B1E67000C5ED0 /* iPhoneXr_map_10.txt */; };
+		3ACE1988226B1E68000C5ED0 /* iPhoneXr_map_37.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1956226B1E67000C5ED0 /* iPhoneXr_map_37.txt */; };
+		3ACE1989226B1E68000C5ED0 /* iPhoneXr_map_15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1957226B1E67000C5ED0 /* iPhoneXr_map_15.txt */; };
+		3ACE198A226B1E68000C5ED0 /* iPhoneXr_map_25.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1958226B1E67000C5ED0 /* iPhoneXr_map_25.txt */; };
+		3ACE198B226B1E68000C5ED0 /* iPhoneXr_map_2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE1959226B1E67000C5ED0 /* iPhoneXr_map_2.txt */; };
+		3ACE198C226B1E68000C5ED0 /* iPhoneXr_map_31.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE195A226B1E68000C5ED0 /* iPhoneXr_map_31.txt */; };
+		3ACE198D226B1E68000C5ED0 /* iPhoneXr_map_27.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE195B226B1E68000C5ED0 /* iPhoneXr_map_27.txt */; };
+		3ACE19F4226B4E95000C5ED0 /* iPhoneXsMax_map_7.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19C2226B4E91000C5ED0 /* iPhoneXsMax_map_7.txt */; };
+		3ACE19F5226B4E95000C5ED0 /* iPhoneXsMax_map_41.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19C3226B4E91000C5ED0 /* iPhoneXsMax_map_41.txt */; };
+		3ACE19F6226B4E95000C5ED0 /* iPhoneXsMax_map_14.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19C4226B4E91000C5ED0 /* iPhoneXsMax_map_14.txt */; };
+		3ACE19F7226B4E95000C5ED0 /* iPhoneXsMax_map_17.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19C5226B4E91000C5ED0 /* iPhoneXsMax_map_17.txt */; };
+		3ACE19F8226B4E95000C5ED0 /* iPhoneXsMax_map_10.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19C6226B4E91000C5ED0 /* iPhoneXsMax_map_10.txt */; };
+		3ACE19F9226B4E95000C5ED0 /* iPhoneXsMax_map_42.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19C7226B4E91000C5ED0 /* iPhoneXsMax_map_42.txt */; };
+		3ACE19FA226B4E95000C5ED0 /* iPhoneXsMax_map_34.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19C8226B4E91000C5ED0 /* iPhoneXsMax_map_34.txt */; };
+		3ACE19FB226B4E95000C5ED0 /* iPhoneXsMax_map_37.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19C9226B4E91000C5ED0 /* iPhoneXsMax_map_37.txt */; };
+		3ACE19FC226B4E95000C5ED0 /* iPhoneXsMax_map_28.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19CA226B4E91000C5ED0 /* iPhoneXsMax_map_28.txt */; };
+		3ACE19FD226B4E95000C5ED0 /* iPhoneXsMax_map_16.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19CB226B4E91000C5ED0 /* iPhoneXsMax_map_16.txt */; };
+		3ACE19FE226B4E95000C5ED0 /* iPhoneXsMax_map_33.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19CC226B4E91000C5ED0 /* iPhoneXsMax_map_33.txt */; };
+		3ACE19FF226B4E95000C5ED0 /* iPhoneXsMax_map_48.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19CD226B4E91000C5ED0 /* iPhoneXsMax_map_48.txt */; };
+		3ACE1A00226B4E95000C5ED0 /* iPhoneXsMax_map_13.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19CE226B4E91000C5ED0 /* iPhoneXsMax_map_13.txt */; };
+		3ACE1A01226B4E95000C5ED0 /* iPhoneXsMax_map_22.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19CF226B4E92000C5ED0 /* iPhoneXsMax_map_22.txt */; };
+		3ACE1A02226B4E95000C5ED0 /* iPhoneXsMax_map_9.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19D0226B4E92000C5ED0 /* iPhoneXsMax_map_9.txt */; };
+		3ACE1A03226B4E95000C5ED0 /* iPhoneXsMax_map_23.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19D1226B4E92000C5ED0 /* iPhoneXsMax_map_23.txt */; };
+		3ACE1A04226B4E95000C5ED0 /* iPhoneXsMax_map_5.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19D2226B4E92000C5ED0 /* iPhoneXsMax_map_5.txt */; };
+		3ACE1A05226B4E95000C5ED0 /* iPhoneXsMax_map_47.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19D3226B4E92000C5ED0 /* iPhoneXsMax_map_47.txt */; };
+		3ACE1A06226B4E95000C5ED0 /* iPhoneXsMax_map_43.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19D4226B4E92000C5ED0 /* iPhoneXsMax_map_43.txt */; };
+		3ACE1A07226B4E95000C5ED0 /* iPhoneXsMax_map_1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19D5226B4E92000C5ED0 /* iPhoneXsMax_map_1.txt */; };
+		3ACE1A08226B4E95000C5ED0 /* iPhoneXsMax_map_45.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19D6226B4E92000C5ED0 /* iPhoneXsMax_map_45.txt */; };
+		3ACE1A09226B4E95000C5ED0 /* iPhoneXsMax_map_32.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19D7226B4E92000C5ED0 /* iPhoneXsMax_map_32.txt */; };
+		3ACE1A0A226B4E95000C5ED0 /* iPhoneXsMax_map_24.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19D8226B4E92000C5ED0 /* iPhoneXsMax_map_24.txt */; };
+		3ACE1A0B226B4E95000C5ED0 /* iPhoneXsMax_map_18.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19D9226B4E92000C5ED0 /* iPhoneXsMax_map_18.txt */; };
+		3ACE1A0C226B4E95000C5ED0 /* iPhoneXsMax_map_4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19DA226B4E92000C5ED0 /* iPhoneXsMax_map_4.txt */; };
+		3ACE1A0D226B4E95000C5ED0 /* iPhoneXsMax_map_36.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19DB226B4E92000C5ED0 /* iPhoneXsMax_map_36.txt */; };
+		3ACE1A0E226B4E95000C5ED0 /* iPhoneXsMax_map_50.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19DC226B4E92000C5ED0 /* iPhoneXsMax_map_50.txt */; };
+		3ACE1A0F226B4E95000C5ED0 /* iPhoneXsMax_map_12.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19DD226B4E93000C5ED0 /* iPhoneXsMax_map_12.txt */; };
+		3ACE1A10226B4E95000C5ED0 /* iPhoneXsMax_map_11.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19DE226B4E93000C5ED0 /* iPhoneXsMax_map_11.txt */; };
+		3ACE1A11226B4E95000C5ED0 /* iPhoneXsMax_map_31.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19DF226B4E93000C5ED0 /* iPhoneXsMax_map_31.txt */; };
+		3ACE1A12226B4E95000C5ED0 /* iPhoneXsMax_map_3.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19E0226B4E93000C5ED0 /* iPhoneXsMax_map_3.txt */; };
+		3ACE1A13226B4E95000C5ED0 /* iPhoneXsMax_map_6.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19E1226B4E93000C5ED0 /* iPhoneXsMax_map_6.txt */; };
+		3ACE1A14226B4E95000C5ED0 /* iPhoneXsMax_map_26.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19E2226B4E93000C5ED0 /* iPhoneXsMax_map_26.txt */; };
+		3ACE1A15226B4E95000C5ED0 /* iPhoneXsMax_map_30.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19E3226B4E93000C5ED0 /* iPhoneXsMax_map_30.txt */; };
+		3ACE1A16226B4E95000C5ED0 /* iPhoneXsMax_map_27.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19E4226B4E93000C5ED0 /* iPhoneXsMax_map_27.txt */; };
+		3ACE1A17226B4E95000C5ED0 /* iPhoneXsMax_map_15.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19E5226B4E93000C5ED0 /* iPhoneXsMax_map_15.txt */; };
+		3ACE1A18226B4E95000C5ED0 /* iPhoneXsMax_map_39.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19E6226B4E93000C5ED0 /* iPhoneXsMax_map_39.txt */; };
+		3ACE1A19226B4E95000C5ED0 /* iPhoneXsMax_map_25.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19E7226B4E94000C5ED0 /* iPhoneXsMax_map_25.txt */; };
+		3ACE1A1A226B4E95000C5ED0 /* iPhoneXsMax_map_49.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19E8226B4E94000C5ED0 /* iPhoneXsMax_map_49.txt */; };
+		3ACE1A1B226B4E95000C5ED0 /* iPhoneXsMax_map_2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19E9226B4E94000C5ED0 /* iPhoneXsMax_map_2.txt */; };
+		3ACE1A1C226B4E95000C5ED0 /* iPhoneXsMax_map_29.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19EA226B4E94000C5ED0 /* iPhoneXsMax_map_29.txt */; };
+		3ACE1A1D226B4E95000C5ED0 /* iPhoneXsMax_map_20.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19EB226B4E94000C5ED0 /* iPhoneXsMax_map_20.txt */; };
+		3ACE1A1E226B4E95000C5ED0 /* iPhoneXsMax_map_44.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19EC226B4E94000C5ED0 /* iPhoneXsMax_map_44.txt */; };
+		3ACE1A1F226B4E95000C5ED0 /* iPhoneXsMax_map_35.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19ED226B4E94000C5ED0 /* iPhoneXsMax_map_35.txt */; };
+		3ACE1A20226B4E95000C5ED0 /* iPhoneXsMax_map_40.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19EE226B4E94000C5ED0 /* iPhoneXsMax_map_40.txt */; };
+		3ACE1A21226B4E95000C5ED0 /* iPhoneXsMax_map_8.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19EF226B4E94000C5ED0 /* iPhoneXsMax_map_8.txt */; };
+		3ACE1A22226B4E95000C5ED0 /* iPhoneXsMax_map_46.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19F0226B4E94000C5ED0 /* iPhoneXsMax_map_46.txt */; };
+		3ACE1A23226B4E95000C5ED0 /* iPhoneXsMax_map_38.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19F1226B4E94000C5ED0 /* iPhoneXsMax_map_38.txt */; };
+		3ACE1A24226B4E95000C5ED0 /* iPhoneXsMax_map_19.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19F2226B4E94000C5ED0 /* iPhoneXsMax_map_19.txt */; };
+		3ACE1A25226B4E95000C5ED0 /* iPhoneXsMax_map_21.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE19F3226B4E95000C5ED0 /* iPhoneXsMax_map_21.txt */; };
+		BCE31E95222F9B5700A086A6 /* ButtonNode.m in Sources */ = {isa = PBXBuildFile; fileRef = BCE31E93222F9B5700A086A6 /* ButtonNode.m */; };
+		CF0AB29D21DEE9D1008BB6F4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CF0AB29C21DEE9D1008BB6F4 /* AppDelegate.m */; };
+		CF0AB29F21DEE9D1008BB6F4 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = CF0AB29E21DEE9D1008BB6F4 /* GameScene.sks */; };
+		CF0AB2A121DEE9D1008BB6F4 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = CF0AB2A021DEE9D1008BB6F4 /* Actions.sks */; };
+		CF0AB2A421DEE9D1008BB6F4 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = CF0AB2A321DEE9D1008BB6F4 /* GameScene.m */; };
+		CF0AB2A721DEE9D1008BB6F4 /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF0AB2A621DEE9D1008BB6F4 /* GameViewController.m */; };
+		CF0AB2AA21DEE9D1008BB6F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF0AB2A821DEE9D1008BB6F4 /* Main.storyboard */; };
+		CF0AB2AC21DEE9D2008BB6F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF0AB2AB21DEE9D2008BB6F4 /* Assets.xcassets */; };
+		CF0AB2AF21DEE9D2008BB6F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF0AB2AD21DEE9D2008BB6F4 /* LaunchScreen.storyboard */; };
+		CF0AB2B221DEE9D2008BB6F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CF0AB2B121DEE9D2008BB6F4 /* main.m */; };
+		CF12891721FC81FB00C3020E /* GameOverScene.m in Sources */ = {isa = PBXBuildFile; fileRef = CF12891421FC81FB00C3020E /* GameOverScene.m */; };
+		CF12891821FC81FB00C3020E /* StartScene.m in Sources */ = {isa = PBXBuildFile; fileRef = CF12891521FC81FB00C3020E /* StartScene.m */; };
+		CF1EEDC322003BC300CDD1CB /* CloudNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CF1EEDC222003BC300CDD1CB /* CloudNode.m */; };
+		CF3EE41622042B14002E6F45 /* CheckPointNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3EE41422042B14002E6F45 /* CheckPointNode.m */; };
+		CF4343B521FF260F0079EBB0 /* ShenLongNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CF4343B321FF260F0079EBB0 /* ShenLongNode.m */; };
+		CF649BA72201D91500EF81B4 /* PalaceNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CF649BA62201D91500EF81B4 /* PalaceNode.m */; };
+		CF85842E21DF5401001DF934 /* BallNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CF85842C21DF5401001DF934 /* BallNode.m */; };
+		CF85970621E9F909007A9465 /* TileMapLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = CF85970521E9F909007A9465 /* TileMapLayer.m */; };
+		CF85970921EA08F7007A9465 /* WallNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CF85970721EA08F7007A9465 /* WallNode.m */; };
+		CFE4C40121F833A50034E72E /* WallHorizontalNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CFE4C40021F833A50034E72E /* WallHorizontalNode.m */; };
+		CFE4C40421F834080034E72E /* WallVerticalNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CFE4C40321F834080034E72E /* WallVerticalNode.m */; };
+		CFF118F322087AB4005A6916 /* 敲锣声.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CFF118EF22087AB3005A6916 /* 敲锣声.mp3 */; };
+		CFF118F522087AB4005A6916 /* 龙戏珠开场音乐.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CFF118F122087AB4005A6916 /* 龙戏珠开场音乐.mp3 */; };
+		CFF118F8220880C3005A6916 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFF118F7220880C3005A6916 /* AVFoundation.framework */; };
+		CFF118FA220880E1005A6916 /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFF118F9220880E1005A6916 /* AVKit.framework */; };
+		F1062E63223F76AB00A3E46A /* SelectLevelNode.m in Sources */ = {isa = PBXBuildFile; fileRef = F1062E62223F76AB00A3E46A /* SelectLevelNode.m */; };
+		F109B12D224097E400AEAD88 /* RedLevelNode.m in Sources */ = {isa = PBXBuildFile; fileRef = F109B127224097E400AEAD88 /* RedLevelNode.m */; };
+		F109B12E224097E400AEAD88 /* BlackLevelNode.m in Sources */ = {isa = PBXBuildFile; fileRef = F109B128224097E400AEAD88 /* BlackLevelNode.m */; };
+		F109B12F224097E400AEAD88 /* WhiteLevelNode.m in Sources */ = {isa = PBXBuildFile; fileRef = F109B129224097E400AEAD88 /* WhiteLevelNode.m */; };
+		F1F4FE8522408820005286A5 /* LevelNode.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F4FE8422408820005286A5 /* LevelNode.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3A13D491226C3BB60036CCAA /* iPhone6Plus_map_30.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_30.txt; sourceTree = "<group>"; };
+		3A13D492226C3BB60036CCAA /* iPhone6Plus_map_3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_3.txt; sourceTree = "<group>"; };
+		3A13D493226C3BB60036CCAA /* iPhone6Plus_map_23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_23.txt; sourceTree = "<group>"; };
+		3A13D494226C3BB60036CCAA /* iPhone6Plus_map_39.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_39.txt; sourceTree = "<group>"; };
+		3A13D495226C3BB60036CCAA /* iPhone6Plus_map_34.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_34.txt; sourceTree = "<group>"; };
+		3A13D496226C3BB60036CCAA /* iPhone6Plus_map_5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_5.txt; sourceTree = "<group>"; };
+		3A13D497226C3BB60036CCAA /* iPhone6Plus_map_35.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_35.txt; sourceTree = "<group>"; };
+		3A13D498226C3BB60036CCAA /* iPhone6Plus_map_13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_13.txt; sourceTree = "<group>"; };
+		3A13D499226C3BB60036CCAA /* iPhone6Plus_map_7.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_7.txt; sourceTree = "<group>"; };
+		3A13D49A226C3BB60036CCAA /* iPhone6Plus_map_19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_19.txt; sourceTree = "<group>"; };
+		3A13D49B226C3BB60036CCAA /* iPhone6Plus_map_8.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_8.txt; sourceTree = "<group>"; };
+		3A13D49C226C3BB60036CCAA /* iPhone6Plus_map_15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_15.txt; sourceTree = "<group>"; };
+		3A13D49D226C3BB60036CCAA /* iPhone6Plus_map_31.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_31.txt; sourceTree = "<group>"; };
+		3A13D49E226C3BB60036CCAA /* iPhone6Plus_map_9.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_9.txt; sourceTree = "<group>"; };
+		3A13D49F226C3BB60036CCAA /* iPhone6Plus_map_33.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_33.txt; sourceTree = "<group>"; };
+		3A13D4A0226C3BB70036CCAA /* iPhone6Plus_map_27.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_27.txt; sourceTree = "<group>"; };
+		3A13D4A1226C3BB70036CCAA /* iPhone6Plus_map_36.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_36.txt; sourceTree = "<group>"; };
+		3A13D4A2226C3BB70036CCAA /* iPhone6Plus_map_29.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_29.txt; sourceTree = "<group>"; };
+		3A13D4A3226C3BB70036CCAA /* iPhone6Plus_map_22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_22.txt; sourceTree = "<group>"; };
+		3A13D4A4226C3BB70036CCAA /* iPhone6Plus_map_43.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_43.txt; sourceTree = "<group>"; };
+		3A13D4A5226C3BB70036CCAA /* iPhone6Plus_map_46.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_46.txt; sourceTree = "<group>"; };
+		3A13D4A6226C3BB70036CCAA /* iPhone6Plus_map_38.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_38.txt; sourceTree = "<group>"; };
+		3A13D4A7226C3BB70036CCAA /* iPhone6Plus_map_26.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_26.txt; sourceTree = "<group>"; };
+		3A13D4A8226C3BB70036CCAA /* iPhone6Plus_map_37.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_37.txt; sourceTree = "<group>"; };
+		3A13D4A9226C3BB70036CCAA /* iPhone6Plus_map_25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_25.txt; sourceTree = "<group>"; };
+		3A13D4AA226C3BB70036CCAA /* iPhone6Plus_map_48.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_48.txt; sourceTree = "<group>"; };
+		3A13D4AB226C3BB70036CCAA /* iPhone6Plus_map_6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_6.txt; sourceTree = "<group>"; };
+		3A13D4AC226C3BB70036CCAA /* iPhone6Plus_map_40.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_40.txt; sourceTree = "<group>"; };
+		3A13D4AD226C3BB70036CCAA /* iPhone6Plus_map_4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_4.txt; sourceTree = "<group>"; };
+		3A13D4AE226C3BB70036CCAA /* iPhone6Plus_map_44.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_44.txt; sourceTree = "<group>"; };
+		3A13D4AF226C3BB70036CCAA /* iPhone6Plus_map_16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_16.txt; sourceTree = "<group>"; };
+		3A13D4B0226C3BB80036CCAA /* iPhone6Plus_map_20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_20.txt; sourceTree = "<group>"; };
+		3A13D4B1226C3BB80036CCAA /* iPhone6Plus_map_24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_24.txt; sourceTree = "<group>"; };
+		3A13D4B2226C3BB80036CCAA /* iPhone6Plus_map_32.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_32.txt; sourceTree = "<group>"; };
+		3A13D4B3226C3BB80036CCAA /* iPhone6Plus_map_12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_12.txt; sourceTree = "<group>"; };
+		3A13D4B4226C3BB80036CCAA /* iPhone6Plus_map_11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_11.txt; sourceTree = "<group>"; };
+		3A13D4B5226C3BB80036CCAA /* iPhone6Plus_map_14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_14.txt; sourceTree = "<group>"; };
+		3A13D4B6226C3BB80036CCAA /* iPhone6Plus_map_28.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_28.txt; sourceTree = "<group>"; };
+		3A13D4B7226C3BB80036CCAA /* iPhone6Plus_map_1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_1.txt; sourceTree = "<group>"; };
+		3A13D4B8226C3BB80036CCAA /* iPhone6Plus_map_45.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_45.txt; sourceTree = "<group>"; };
+		3A13D4B9226C3BB80036CCAA /* iPhone6Plus_map_21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_21.txt; sourceTree = "<group>"; };
+		3A13D4BA226C3BB80036CCAA /* iPhone6Plus_map_50.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_50.txt; sourceTree = "<group>"; };
+		3A13D4BB226C3BB80036CCAA /* iPhone6Plus_map_2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_2.txt; sourceTree = "<group>"; };
+		3A13D4BC226C3BB80036CCAA /* iPhone6Plus_map_41.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_41.txt; sourceTree = "<group>"; };
+		3A13D4BD226C3BB80036CCAA /* iPhone6Plus_map_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_10.txt; sourceTree = "<group>"; };
+		3A13D4BE226C3BB80036CCAA /* iPhone6Plus_map_49.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_49.txt; sourceTree = "<group>"; };
+		3A13D4BF226C3BB80036CCAA /* iPhone6Plus_map_42.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_42.txt; sourceTree = "<group>"; };
+		3A13D4C0226C3BB90036CCAA /* iPhone6Plus_map_17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_17.txt; sourceTree = "<group>"; };
+		3A13D4C1226C3BB90036CCAA /* iPhone6Plus_map_18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_18.txt; sourceTree = "<group>"; };
+		3A13D4C2226C3BB90036CCAA /* iPhone6Plus_map_47.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone6Plus_map_47.txt; sourceTree = "<group>"; };
+		3A13D57B226C6F1E0036CCAA /* iPhone5_map_29.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_29.txt; sourceTree = "<group>"; };
+		3A13D57C226C6F1E0036CCAA /* iPhone5_map_43.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_43.txt; sourceTree = "<group>"; };
+		3A13D57D226C6F1E0036CCAA /* iPhone5_map_40.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_40.txt; sourceTree = "<group>"; };
+		3A13D57E226C6F1E0036CCAA /* iPhone5_map_39.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_39.txt; sourceTree = "<group>"; };
+		3A13D57F226C6F1E0036CCAA /* iPhone5_map_12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_12.txt; sourceTree = "<group>"; };
+		3A13D580226C6F1F0036CCAA /* iPhone5_map_47.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_47.txt; sourceTree = "<group>"; };
+		3A13D581226C6F1F0036CCAA /* iPhone5_map_30.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_30.txt; sourceTree = "<group>"; };
+		3A13D582226C6F1F0036CCAA /* iPhone5_map_1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_1.txt; sourceTree = "<group>"; };
+		3A13D583226C6F1F0036CCAA /* iPhone5_map_45.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_45.txt; sourceTree = "<group>"; };
+		3A13D584226C6F1F0036CCAA /* iPhone5_map_48.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_48.txt; sourceTree = "<group>"; };
+		3A13D585226C6F1F0036CCAA /* iPhone5_map_25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_25.txt; sourceTree = "<group>"; };
+		3A13D586226C6F1F0036CCAA /* iPhone5_map_11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_11.txt; sourceTree = "<group>"; };
+		3A13D587226C6F1F0036CCAA /* iPhone5_map_4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_4.txt; sourceTree = "<group>"; };
+		3A13D588226C6F1F0036CCAA /* iPhone5_map_15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_15.txt; sourceTree = "<group>"; };
+		3A13D589226C6F1F0036CCAA /* iPhone5_map_16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_16.txt; sourceTree = "<group>"; };
+		3A13D58A226C6F1F0036CCAA /* iPhone5_map_17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_17.txt; sourceTree = "<group>"; };
+		3A13D58B226C6F1F0036CCAA /* iPhone5_map_35.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_35.txt; sourceTree = "<group>"; };
+		3A13D58C226C6F1F0036CCAA /* iPhone5_map_3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_3.txt; sourceTree = "<group>"; };
+		3A13D58D226C6F1F0036CCAA /* iPhone5_map_5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_5.txt; sourceTree = "<group>"; };
+		3A13D58E226C6F1F0036CCAA /* iPhone5_map_37.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_37.txt; sourceTree = "<group>"; };
+		3A13D58F226C6F1F0036CCAA /* iPhone5_map_49.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_49.txt; sourceTree = "<group>"; };
+		3A13D590226C6F1F0036CCAA /* iPhone5_map_20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_20.txt; sourceTree = "<group>"; };
+		3A13D591226C6F1F0036CCAA /* iPhone5_map_26.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_26.txt; sourceTree = "<group>"; };
+		3A13D592226C6F200036CCAA /* iPhone5_map_36.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_36.txt; sourceTree = "<group>"; };
+		3A13D593226C6F200036CCAA /* iPhone5_map_8.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_8.txt; sourceTree = "<group>"; };
+		3A13D594226C6F200036CCAA /* iPhone5_map_18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_18.txt; sourceTree = "<group>"; };
+		3A13D595226C6F200036CCAA /* iPhone5_map_50.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_50.txt; sourceTree = "<group>"; };
+		3A13D596226C6F200036CCAA /* iPhone5_map_14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_14.txt; sourceTree = "<group>"; };
+		3A13D597226C6F200036CCAA /* iPhone5_map_44.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_44.txt; sourceTree = "<group>"; };
+		3A13D598226C6F200036CCAA /* iPhone5_map_41.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_41.txt; sourceTree = "<group>"; };
+		3A13D599226C6F200036CCAA /* iPhone5_map_31.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_31.txt; sourceTree = "<group>"; };
+		3A13D59A226C6F200036CCAA /* iPhone5_map_28.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_28.txt; sourceTree = "<group>"; };
+		3A13D59B226C6F200036CCAA /* iPhone5_map_33.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_33.txt; sourceTree = "<group>"; };
+		3A13D59C226C6F200036CCAA /* iPhone5_map_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_10.txt; sourceTree = "<group>"; };
+		3A13D59D226C6F200036CCAA /* iPhone5_map_19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_19.txt; sourceTree = "<group>"; };
+		3A13D59E226C6F200036CCAA /* iPhone5_map_24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_24.txt; sourceTree = "<group>"; };
+		3A13D59F226C6F200036CCAA /* iPhone5_map_42.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_42.txt; sourceTree = "<group>"; };
+		3A13D5A0226C6F200036CCAA /* iPhone5_map_46.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_46.txt; sourceTree = "<group>"; };
+		3A13D5A1226C6F210036CCAA /* iPhone5_map_32.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_32.txt; sourceTree = "<group>"; };
+		3A13D5A2226C6F210036CCAA /* iPhone5_map_21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_21.txt; sourceTree = "<group>"; };
+		3A13D5A3226C6F210036CCAA /* iPhone5_map_22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_22.txt; sourceTree = "<group>"; };
+		3A13D5A4226C6F210036CCAA /* iPhone5_map_7.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_7.txt; sourceTree = "<group>"; };
+		3A13D5A5226C6F210036CCAA /* iPhone5_map_27.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_27.txt; sourceTree = "<group>"; };
+		3A13D5A6226C6F210036CCAA /* iPhone5_map_6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_6.txt; sourceTree = "<group>"; };
+		3A13D5A7226C6F210036CCAA /* iPhone5_map_9.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_9.txt; sourceTree = "<group>"; };
+		3A13D5A8226C6F210036CCAA /* iPhone5_map_13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_13.txt; sourceTree = "<group>"; };
+		3A13D5A9226C6F210036CCAA /* iPhone5_map_2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_2.txt; sourceTree = "<group>"; };
+		3A13D5AA226C6F210036CCAA /* iPhone5_map_23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_23.txt; sourceTree = "<group>"; };
+		3A13D5AB226C6F210036CCAA /* iPhone5_map_38.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_38.txt; sourceTree = "<group>"; };
+		3A13D5AC226C6F210036CCAA /* iPhone5_map_34.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone5_map_34.txt; sourceTree = "<group>"; };
+		3A6D2947226759A200ED85C4 /* iPhone8_map_18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_18.txt; sourceTree = "<group>"; };
+		3A6D2948226759A200ED85C4 /* iPhone8_map_49.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_49.txt; sourceTree = "<group>"; };
+		3A6D2949226759A200ED85C4 /* iPhone8_map_4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_4.txt; sourceTree = "<group>"; };
+		3A6D294A226759A200ED85C4 /* iPhone8_map_22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_22.txt; sourceTree = "<group>"; };
+		3A6D294B226759A200ED85C4 /* iPhone8_map_23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_23.txt; sourceTree = "<group>"; };
+		3A6D294C226759A200ED85C4 /* iPhone8_map_12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_12.txt; sourceTree = "<group>"; };
+		3A6D294D226759A200ED85C4 /* iPhone8_map_35.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_35.txt; sourceTree = "<group>"; };
+		3A6D294E226759A200ED85C4 /* iPhone8_map_1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_1.txt; sourceTree = "<group>"; };
+		3A6D294F226759A200ED85C4 /* iPhone8_map_50.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_50.txt; sourceTree = "<group>"; };
+		3A6D2950226759A200ED85C4 /* iPhone8_map_7.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_7.txt; sourceTree = "<group>"; };
+		3A6D2951226759A200ED85C4 /* iPhone8_map_21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_21.txt; sourceTree = "<group>"; };
+		3A6D2952226759A200ED85C4 /* iPhone8_map_14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_14.txt; sourceTree = "<group>"; };
+		3A6D2953226759A200ED85C4 /* iPhone8_map_43.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_43.txt; sourceTree = "<group>"; };
+		3A6D2954226759A200ED85C4 /* iPhone8_map_36.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_36.txt; sourceTree = "<group>"; };
+		3A6D2955226759A200ED85C4 /* iPhone8_map_16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_16.txt; sourceTree = "<group>"; };
+		3A6D2956226759A200ED85C4 /* iPhone8_map_41.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_41.txt; sourceTree = "<group>"; };
+		3A6D2957226759A200ED85C4 /* iPhone8_map_8.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_8.txt; sourceTree = "<group>"; };
+		3A6D2958226759A300ED85C4 /* iPhone8_map_13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_13.txt; sourceTree = "<group>"; };
+		3A6D2959226759A300ED85C4 /* iPhone8_map_31.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_31.txt; sourceTree = "<group>"; };
+		3A6D295A226759A300ED85C4 /* iPhone8_map_2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_2.txt; sourceTree = "<group>"; };
+		3A6D295B226759A300ED85C4 /* iPhone8_map_29.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_29.txt; sourceTree = "<group>"; };
+		3A6D295C226759A300ED85C4 /* iPhone8_map_24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_24.txt; sourceTree = "<group>"; };
+		3A6D295D226759A300ED85C4 /* iPhone8_map_33.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_33.txt; sourceTree = "<group>"; };
+		3A6D295E226759A300ED85C4 /* iPhone8_map_42.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_42.txt; sourceTree = "<group>"; };
+		3A6D295F226759A300ED85C4 /* iPhone8_map_32.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_32.txt; sourceTree = "<group>"; };
+		3A6D2960226759A300ED85C4 /* iPhone8_map_44.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_44.txt; sourceTree = "<group>"; };
+		3A6D2961226759A300ED85C4 /* iPhone8_map_9.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_9.txt; sourceTree = "<group>"; };
+		3A6D2962226759A300ED85C4 /* iPhone8_map_11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_11.txt; sourceTree = "<group>"; };
+		3A6D2963226759A300ED85C4 /* iPhone8_map_30.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_30.txt; sourceTree = "<group>"; };
+		3A6D2964226759A300ED85C4 /* iPhone8_map_47.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_47.txt; sourceTree = "<group>"; };
+		3A6D2965226759A300ED85C4 /* iPhone8_map_39.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_39.txt; sourceTree = "<group>"; };
+		3A6D2966226759A300ED85C4 /* iPhone8_map_20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_20.txt; sourceTree = "<group>"; };
+		3A6D2967226759A300ED85C4 /* iPhone8_map_25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_25.txt; sourceTree = "<group>"; };
+		3A6D2968226759A300ED85C4 /* iPhone8_map_37.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_37.txt; sourceTree = "<group>"; };
+		3A6D2969226759A300ED85C4 /* iPhone8_map_45.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_45.txt; sourceTree = "<group>"; };
+		3A6D296A226759A300ED85C4 /* iPhone8_map_28.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_28.txt; sourceTree = "<group>"; };
+		3A6D296B226759A300ED85C4 /* iPhone8_map_3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_3.txt; sourceTree = "<group>"; };
+		3A6D296C226759A300ED85C4 /* iPhone8_map_46.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_46.txt; sourceTree = "<group>"; };
+		3A6D296D226759A300ED85C4 /* iPhone8_map_26.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_26.txt; sourceTree = "<group>"; };
+		3A6D296E226759A300ED85C4 /* iPhone8_map_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_10.txt; sourceTree = "<group>"; };
+		3A6D296F226759A300ED85C4 /* iPhone8_map_40.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_40.txt; sourceTree = "<group>"; };
+		3A6D2970226759A400ED85C4 /* iPhone8_map_6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_6.txt; sourceTree = "<group>"; };
+		3A6D2971226759A400ED85C4 /* iPhone8_map_27.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_27.txt; sourceTree = "<group>"; };
+		3A6D2972226759A400ED85C4 /* iPhone8_map_38.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_38.txt; sourceTree = "<group>"; };
+		3A6D2973226759A400ED85C4 /* iPhone8_map_5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_5.txt; sourceTree = "<group>"; };
+		3A6D2974226759A400ED85C4 /* iPhone8_map_19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_19.txt; sourceTree = "<group>"; };
+		3A6D2975226759A400ED85C4 /* iPhone8_map_15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_15.txt; sourceTree = "<group>"; };
+		3A6D2976226759A400ED85C4 /* iPhone8_map_34.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_34.txt; sourceTree = "<group>"; };
+		3A6D2977226759A400ED85C4 /* iPhone8_map_48.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_48.txt; sourceTree = "<group>"; };
+		3A6D2978226759A400ED85C4 /* iPhone8_map_17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhone8_map_17.txt; sourceTree = "<group>"; };
+		3A8DBDC3224FA42E003F3D4C /* 胜利音乐.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "胜利音乐.mp3"; sourceTree = "<group>"; };
+		3AA746FC2247624200C537D2 /* FlowersNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlowersNode.h; sourceTree = "<group>"; };
+		3AA746FD2247624200C537D2 /* FlowersNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlowersNode.m; sourceTree = "<group>"; };
+		3ABC578522466ECC0031A591 /* LevelLabelNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LevelLabelNode.h; sourceTree = "<group>"; };
+		3ABC578622466ECC0031A591 /* LevelLabelNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LevelLabelNode.m; sourceTree = "<group>"; };
+		3AC3BECA225043260053A6BE /* DenLongNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DenLongNode.m; sourceTree = "<group>"; };
+		3AC3BECB225043260053A6BE /* DenLongNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DenLongNode.h; sourceTree = "<group>"; };
+		3ACE1814226AE9DE000C5ED0 /* iPhoneX_map_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_10.txt; sourceTree = "<group>"; };
+		3ACE1815226AE9DE000C5ED0 /* iPhoneX_map_24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_24.txt; sourceTree = "<group>"; };
+		3ACE1816226AE9DE000C5ED0 /* iPhoneX_map_41.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_41.txt; sourceTree = "<group>"; };
+		3ACE1817226AE9DE000C5ED0 /* iPhoneX_map_46.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_46.txt; sourceTree = "<group>"; };
+		3ACE1818226AE9DF000C5ED0 /* iPhoneX_map_20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_20.txt; sourceTree = "<group>"; };
+		3ACE1819226AE9DF000C5ED0 /* iPhoneX_map_39.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_39.txt; sourceTree = "<group>"; };
+		3ACE181A226AE9DF000C5ED0 /* iPhoneX_map_28.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_28.txt; sourceTree = "<group>"; };
+		3ACE181B226AE9DF000C5ED0 /* iPhoneX_map_11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_11.txt; sourceTree = "<group>"; };
+		3ACE181C226AE9DF000C5ED0 /* iPhoneX_map_29.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_29.txt; sourceTree = "<group>"; };
+		3ACE181D226AE9DF000C5ED0 /* iPhoneX_map_50.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_50.txt; sourceTree = "<group>"; };
+		3ACE181E226AE9DF000C5ED0 /* iPhoneX_map_43.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_43.txt; sourceTree = "<group>"; };
+		3ACE181F226AE9DF000C5ED0 /* iPhoneX_map_7.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_7.txt; sourceTree = "<group>"; };
+		3ACE1820226AE9DF000C5ED0 /* iPhoneX_map_16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_16.txt; sourceTree = "<group>"; };
+		3ACE1821226AE9DF000C5ED0 /* iPhoneX_map_32.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_32.txt; sourceTree = "<group>"; };
+		3ACE1822226AE9DF000C5ED0 /* iPhoneX_map_25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_25.txt; sourceTree = "<group>"; };
+		3ACE1823226AE9DF000C5ED0 /* iPhoneX_map_2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_2.txt; sourceTree = "<group>"; };
+		3ACE1824226AE9DF000C5ED0 /* iPhoneX_map_9.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_9.txt; sourceTree = "<group>"; };
+		3ACE1825226AE9DF000C5ED0 /* iPhoneX_map_12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_12.txt; sourceTree = "<group>"; };
+		3ACE1826226AE9DF000C5ED0 /* iPhoneX_map_49.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_49.txt; sourceTree = "<group>"; };
+		3ACE1827226AE9DF000C5ED0 /* iPhoneX_map_1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_1.txt; sourceTree = "<group>"; };
+		3ACE1828226AE9DF000C5ED0 /* iPhoneX_map_4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_4.txt; sourceTree = "<group>"; };
+		3ACE1829226AE9DF000C5ED0 /* iPhoneX_map_47.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_47.txt; sourceTree = "<group>"; };
+		3ACE182A226AE9DF000C5ED0 /* iPhoneX_map_31.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_31.txt; sourceTree = "<group>"; };
+		3ACE182B226AE9DF000C5ED0 /* iPhoneX_map_34.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_34.txt; sourceTree = "<group>"; };
+		3ACE182C226AE9DF000C5ED0 /* iPhoneX_map_27.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_27.txt; sourceTree = "<group>"; };
+		3ACE182D226AE9DF000C5ED0 /* iPhoneX_map_13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_13.txt; sourceTree = "<group>"; };
+		3ACE182E226AE9DF000C5ED0 /* iPhoneX_map_33.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_33.txt; sourceTree = "<group>"; };
+		3ACE182F226AE9DF000C5ED0 /* iPhoneX_map_37.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_37.txt; sourceTree = "<group>"; };
+		3ACE1830226AE9DF000C5ED0 /* iPhoneX_map_26.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_26.txt; sourceTree = "<group>"; };
+		3ACE1831226AE9DF000C5ED0 /* iPhoneX_map_35.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_35.txt; sourceTree = "<group>"; };
+		3ACE1832226AE9DF000C5ED0 /* iPhoneX_map_8.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_8.txt; sourceTree = "<group>"; };
+		3ACE1833226AE9E0000C5ED0 /* iPhoneX_map_36.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_36.txt; sourceTree = "<group>"; };
+		3ACE1834226AE9E0000C5ED0 /* iPhoneX_map_42.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_42.txt; sourceTree = "<group>"; };
+		3ACE1835226AE9E0000C5ED0 /* iPhoneX_map_5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_5.txt; sourceTree = "<group>"; };
+		3ACE1836226AE9E0000C5ED0 /* iPhoneX_map_3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_3.txt; sourceTree = "<group>"; };
+		3ACE1837226AE9E0000C5ED0 /* iPhoneX_map_40.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_40.txt; sourceTree = "<group>"; };
+		3ACE1838226AE9E0000C5ED0 /* iPhoneX_map_18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_18.txt; sourceTree = "<group>"; };
+		3ACE1839226AE9E0000C5ED0 /* iPhoneX_map_14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_14.txt; sourceTree = "<group>"; };
+		3ACE183A226AE9E0000C5ED0 /* iPhoneX_map_15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_15.txt; sourceTree = "<group>"; };
+		3ACE183B226AE9E0000C5ED0 /* iPhoneX_map_23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_23.txt; sourceTree = "<group>"; };
+		3ACE183C226AE9E0000C5ED0 /* iPhoneX_map_45.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_45.txt; sourceTree = "<group>"; };
+		3ACE183D226AE9E0000C5ED0 /* iPhoneX_map_30.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_30.txt; sourceTree = "<group>"; };
+		3ACE183E226AE9E0000C5ED0 /* iPhoneX_map_38.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_38.txt; sourceTree = "<group>"; };
+		3ACE183F226AE9E0000C5ED0 /* iPhoneX_map_19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_19.txt; sourceTree = "<group>"; };
+		3ACE1840226AE9E0000C5ED0 /* iPhoneX_map_48.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_48.txt; sourceTree = "<group>"; };
+		3ACE1841226AE9E0000C5ED0 /* iPhoneX_map_44.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_44.txt; sourceTree = "<group>"; };
+		3ACE1842226AE9E0000C5ED0 /* iPhoneX_map_17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_17.txt; sourceTree = "<group>"; };
+		3ACE1843226AE9E0000C5ED0 /* iPhoneX_map_6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_6.txt; sourceTree = "<group>"; };
+		3ACE1844226AE9E0000C5ED0 /* iPhoneX_map_21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_21.txt; sourceTree = "<group>"; };
+		3ACE1845226AE9E0000C5ED0 /* iPhoneX_map_22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneX_map_22.txt; sourceTree = "<group>"; };
+		3ACE192A226B1E64000C5ED0 /* iPhoneXr_map_39.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_39.txt; sourceTree = "<group>"; };
+		3ACE192B226B1E64000C5ED0 /* iPhoneXr_map_29.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_29.txt; sourceTree = "<group>"; };
+		3ACE192C226B1E64000C5ED0 /* iPhoneXr_map_7.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_7.txt; sourceTree = "<group>"; };
+		3ACE192D226B1E64000C5ED0 /* iPhoneXr_map_35.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_35.txt; sourceTree = "<group>"; };
+		3ACE192E226B1E64000C5ED0 /* iPhoneXr_map_28.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_28.txt; sourceTree = "<group>"; };
+		3ACE192F226B1E64000C5ED0 /* iPhoneXr_map_12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_12.txt; sourceTree = "<group>"; };
+		3ACE1930226B1E64000C5ED0 /* iPhoneXr_map_6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_6.txt; sourceTree = "<group>"; };
+		3ACE1931226B1E64000C5ED0 /* iPhoneXr_map_41.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_41.txt; sourceTree = "<group>"; };
+		3ACE1932226B1E64000C5ED0 /* iPhoneXr_map_18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_18.txt; sourceTree = "<group>"; };
+		3ACE1933226B1E64000C5ED0 /* iPhoneXr_map_26.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_26.txt; sourceTree = "<group>"; };
+		3ACE1934226B1E64000C5ED0 /* iPhoneXr_map_49.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_49.txt; sourceTree = "<group>"; };
+		3ACE1935226B1E64000C5ED0 /* iPhoneXr_map_19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_19.txt; sourceTree = "<group>"; };
+		3ACE1936226B1E64000C5ED0 /* iPhoneXr_map_34.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_34.txt; sourceTree = "<group>"; };
+		3ACE1937226B1E64000C5ED0 /* iPhoneXr_map_43.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_43.txt; sourceTree = "<group>"; };
+		3ACE1938226B1E65000C5ED0 /* iPhoneXr_map_20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_20.txt; sourceTree = "<group>"; };
+		3ACE1939226B1E65000C5ED0 /* iPhoneXr_map_32.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_32.txt; sourceTree = "<group>"; };
+		3ACE193A226B1E65000C5ED0 /* iPhoneXr_map_48.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_48.txt; sourceTree = "<group>"; };
+		3ACE193B226B1E65000C5ED0 /* iPhoneXr_map_14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_14.txt; sourceTree = "<group>"; };
+		3ACE193C226B1E65000C5ED0 /* iPhoneXr_map_4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_4.txt; sourceTree = "<group>"; };
+		3ACE193D226B1E65000C5ED0 /* iPhoneXr_map_16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_16.txt; sourceTree = "<group>"; };
+		3ACE193E226B1E65000C5ED0 /* iPhoneXr_map_1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_1.txt; sourceTree = "<group>"; };
+		3ACE193F226B1E65000C5ED0 /* iPhoneXr_map_50.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_50.txt; sourceTree = "<group>"; };
+		3ACE1940226B1E65000C5ED0 /* iPhoneXr_map_9.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_9.txt; sourceTree = "<group>"; };
+		3ACE1941226B1E65000C5ED0 /* iPhoneXr_map_13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_13.txt; sourceTree = "<group>"; };
+		3ACE1942226B1E65000C5ED0 /* iPhoneXr_map_45.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_45.txt; sourceTree = "<group>"; };
+		3ACE1943226B1E65000C5ED0 /* iPhoneXr_map_11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_11.txt; sourceTree = "<group>"; };
+		3ACE1944226B1E66000C5ED0 /* iPhoneXr_map_38.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_38.txt; sourceTree = "<group>"; };
+		3ACE1945226B1E66000C5ED0 /* iPhoneXr_map_40.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_40.txt; sourceTree = "<group>"; };
+		3ACE1946226B1E66000C5ED0 /* iPhoneXr_map_36.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_36.txt; sourceTree = "<group>"; };
+		3ACE1947226B1E66000C5ED0 /* iPhoneXr_map_47.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_47.txt; sourceTree = "<group>"; };
+		3ACE1948226B1E66000C5ED0 /* iPhoneXr_map_30.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_30.txt; sourceTree = "<group>"; };
+		3ACE1949226B1E66000C5ED0 /* iPhoneXr_map_5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_5.txt; sourceTree = "<group>"; };
+		3ACE194A226B1E66000C5ED0 /* iPhoneXr_map_33.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_33.txt; sourceTree = "<group>"; };
+		3ACE194B226B1E66000C5ED0 /* iPhoneXr_map_17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_17.txt; sourceTree = "<group>"; };
+		3ACE194C226B1E66000C5ED0 /* iPhoneXr_map_24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_24.txt; sourceTree = "<group>"; };
+		3ACE194D226B1E66000C5ED0 /* iPhoneXr_map_22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_22.txt; sourceTree = "<group>"; };
+		3ACE194E226B1E67000C5ED0 /* iPhoneXr_map_3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_3.txt; sourceTree = "<group>"; };
+		3ACE194F226B1E67000C5ED0 /* iPhoneXr_map_42.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_42.txt; sourceTree = "<group>"; };
+		3ACE1950226B1E67000C5ED0 /* iPhoneXr_map_23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_23.txt; sourceTree = "<group>"; };
+		3ACE1951226B1E67000C5ED0 /* iPhoneXr_map_46.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_46.txt; sourceTree = "<group>"; };
+		3ACE1952226B1E67000C5ED0 /* iPhoneXr_map_21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_21.txt; sourceTree = "<group>"; };
+		3ACE1953226B1E67000C5ED0 /* iPhoneXr_map_8.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_8.txt; sourceTree = "<group>"; };
+		3ACE1954226B1E67000C5ED0 /* iPhoneXr_map_44.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_44.txt; sourceTree = "<group>"; };
+		3ACE1955226B1E67000C5ED0 /* iPhoneXr_map_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_10.txt; sourceTree = "<group>"; };
+		3ACE1956226B1E67000C5ED0 /* iPhoneXr_map_37.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_37.txt; sourceTree = "<group>"; };
+		3ACE1957226B1E67000C5ED0 /* iPhoneXr_map_15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_15.txt; sourceTree = "<group>"; };
+		3ACE1958226B1E67000C5ED0 /* iPhoneXr_map_25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_25.txt; sourceTree = "<group>"; };
+		3ACE1959226B1E67000C5ED0 /* iPhoneXr_map_2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_2.txt; sourceTree = "<group>"; };
+		3ACE195A226B1E68000C5ED0 /* iPhoneXr_map_31.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_31.txt; sourceTree = "<group>"; };
+		3ACE195B226B1E68000C5ED0 /* iPhoneXr_map_27.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXr_map_27.txt; sourceTree = "<group>"; };
+		3ACE19C2226B4E91000C5ED0 /* iPhoneXsMax_map_7.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_7.txt; sourceTree = "<group>"; };
+		3ACE19C3226B4E91000C5ED0 /* iPhoneXsMax_map_41.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_41.txt; sourceTree = "<group>"; };
+		3ACE19C4226B4E91000C5ED0 /* iPhoneXsMax_map_14.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_14.txt; sourceTree = "<group>"; };
+		3ACE19C5226B4E91000C5ED0 /* iPhoneXsMax_map_17.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_17.txt; sourceTree = "<group>"; };
+		3ACE19C6226B4E91000C5ED0 /* iPhoneXsMax_map_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_10.txt; sourceTree = "<group>"; };
+		3ACE19C7226B4E91000C5ED0 /* iPhoneXsMax_map_42.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_42.txt; sourceTree = "<group>"; };
+		3ACE19C8226B4E91000C5ED0 /* iPhoneXsMax_map_34.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_34.txt; sourceTree = "<group>"; };
+		3ACE19C9226B4E91000C5ED0 /* iPhoneXsMax_map_37.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_37.txt; sourceTree = "<group>"; };
+		3ACE19CA226B4E91000C5ED0 /* iPhoneXsMax_map_28.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_28.txt; sourceTree = "<group>"; };
+		3ACE19CB226B4E91000C5ED0 /* iPhoneXsMax_map_16.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_16.txt; sourceTree = "<group>"; };
+		3ACE19CC226B4E91000C5ED0 /* iPhoneXsMax_map_33.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_33.txt; sourceTree = "<group>"; };
+		3ACE19CD226B4E91000C5ED0 /* iPhoneXsMax_map_48.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_48.txt; sourceTree = "<group>"; };
+		3ACE19CE226B4E91000C5ED0 /* iPhoneXsMax_map_13.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_13.txt; sourceTree = "<group>"; };
+		3ACE19CF226B4E92000C5ED0 /* iPhoneXsMax_map_22.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_22.txt; sourceTree = "<group>"; };
+		3ACE19D0226B4E92000C5ED0 /* iPhoneXsMax_map_9.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_9.txt; sourceTree = "<group>"; };
+		3ACE19D1226B4E92000C5ED0 /* iPhoneXsMax_map_23.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_23.txt; sourceTree = "<group>"; };
+		3ACE19D2226B4E92000C5ED0 /* iPhoneXsMax_map_5.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_5.txt; sourceTree = "<group>"; };
+		3ACE19D3226B4E92000C5ED0 /* iPhoneXsMax_map_47.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_47.txt; sourceTree = "<group>"; };
+		3ACE19D4226B4E92000C5ED0 /* iPhoneXsMax_map_43.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_43.txt; sourceTree = "<group>"; };
+		3ACE19D5226B4E92000C5ED0 /* iPhoneXsMax_map_1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_1.txt; sourceTree = "<group>"; };
+		3ACE19D6226B4E92000C5ED0 /* iPhoneXsMax_map_45.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_45.txt; sourceTree = "<group>"; };
+		3ACE19D7226B4E92000C5ED0 /* iPhoneXsMax_map_32.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_32.txt; sourceTree = "<group>"; };
+		3ACE19D8226B4E92000C5ED0 /* iPhoneXsMax_map_24.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_24.txt; sourceTree = "<group>"; };
+		3ACE19D9226B4E92000C5ED0 /* iPhoneXsMax_map_18.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_18.txt; sourceTree = "<group>"; };
+		3ACE19DA226B4E92000C5ED0 /* iPhoneXsMax_map_4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_4.txt; sourceTree = "<group>"; };
+		3ACE19DB226B4E92000C5ED0 /* iPhoneXsMax_map_36.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_36.txt; sourceTree = "<group>"; };
+		3ACE19DC226B4E92000C5ED0 /* iPhoneXsMax_map_50.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_50.txt; sourceTree = "<group>"; };
+		3ACE19DD226B4E93000C5ED0 /* iPhoneXsMax_map_12.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_12.txt; sourceTree = "<group>"; };
+		3ACE19DE226B4E93000C5ED0 /* iPhoneXsMax_map_11.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_11.txt; sourceTree = "<group>"; };
+		3ACE19DF226B4E93000C5ED0 /* iPhoneXsMax_map_31.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_31.txt; sourceTree = "<group>"; };
+		3ACE19E0226B4E93000C5ED0 /* iPhoneXsMax_map_3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_3.txt; sourceTree = "<group>"; };
+		3ACE19E1226B4E93000C5ED0 /* iPhoneXsMax_map_6.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_6.txt; sourceTree = "<group>"; };
+		3ACE19E2226B4E93000C5ED0 /* iPhoneXsMax_map_26.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_26.txt; sourceTree = "<group>"; };
+		3ACE19E3226B4E93000C5ED0 /* iPhoneXsMax_map_30.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_30.txt; sourceTree = "<group>"; };
+		3ACE19E4226B4E93000C5ED0 /* iPhoneXsMax_map_27.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_27.txt; sourceTree = "<group>"; };
+		3ACE19E5226B4E93000C5ED0 /* iPhoneXsMax_map_15.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_15.txt; sourceTree = "<group>"; };
+		3ACE19E6226B4E93000C5ED0 /* iPhoneXsMax_map_39.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_39.txt; sourceTree = "<group>"; };
+		3ACE19E7226B4E94000C5ED0 /* iPhoneXsMax_map_25.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_25.txt; sourceTree = "<group>"; };
+		3ACE19E8226B4E94000C5ED0 /* iPhoneXsMax_map_49.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_49.txt; sourceTree = "<group>"; };
+		3ACE19E9226B4E94000C5ED0 /* iPhoneXsMax_map_2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_2.txt; sourceTree = "<group>"; };
+		3ACE19EA226B4E94000C5ED0 /* iPhoneXsMax_map_29.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_29.txt; sourceTree = "<group>"; };
+		3ACE19EB226B4E94000C5ED0 /* iPhoneXsMax_map_20.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_20.txt; sourceTree = "<group>"; };
+		3ACE19EC226B4E94000C5ED0 /* iPhoneXsMax_map_44.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_44.txt; sourceTree = "<group>"; };
+		3ACE19ED226B4E94000C5ED0 /* iPhoneXsMax_map_35.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_35.txt; sourceTree = "<group>"; };
+		3ACE19EE226B4E94000C5ED0 /* iPhoneXsMax_map_40.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_40.txt; sourceTree = "<group>"; };
+		3ACE19EF226B4E94000C5ED0 /* iPhoneXsMax_map_8.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_8.txt; sourceTree = "<group>"; };
+		3ACE19F0226B4E94000C5ED0 /* iPhoneXsMax_map_46.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_46.txt; sourceTree = "<group>"; };
+		3ACE19F1226B4E94000C5ED0 /* iPhoneXsMax_map_38.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_38.txt; sourceTree = "<group>"; };
+		3ACE19F2226B4E94000C5ED0 /* iPhoneXsMax_map_19.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_19.txt; sourceTree = "<group>"; };
+		3ACE19F3226B4E95000C5ED0 /* iPhoneXsMax_map_21.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iPhoneXsMax_map_21.txt; sourceTree = "<group>"; };
+		BCE31E93222F9B5700A086A6 /* ButtonNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonNode.m; sourceTree = "<group>"; };
+		BCE31E94222F9B5700A086A6 /* ButtonNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonNode.h; sourceTree = "<group>"; };
+		CF0AB29821DEE9D1008BB6F4 /* BallGravity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BallGravity.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF0AB29B21DEE9D1008BB6F4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CF0AB29C21DEE9D1008BB6F4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CF0AB29E21DEE9D1008BB6F4 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		CF0AB2A021DEE9D1008BB6F4 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
+		CF0AB2A221DEE9D1008BB6F4 /* GameScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
+		CF0AB2A321DEE9D1008BB6F4 /* GameScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
+		CF0AB2A521DEE9D1008BB6F4 /* GameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
+		CF0AB2A621DEE9D1008BB6F4 /* GameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
+		CF0AB2A921DEE9D1008BB6F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CF0AB2AB21DEE9D2008BB6F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CF0AB2AE21DEE9D2008BB6F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CF0AB2B021DEE9D2008BB6F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF0AB2B121DEE9D2008BB6F4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CF12891321FC81FB00C3020E /* GameOverScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameOverScene.h; sourceTree = "<group>"; };
+		CF12891421FC81FB00C3020E /* GameOverScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameOverScene.m; sourceTree = "<group>"; };
+		CF12891521FC81FB00C3020E /* StartScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StartScene.m; sourceTree = "<group>"; };
+		CF12891621FC81FB00C3020E /* StartScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StartScene.h; sourceTree = "<group>"; };
+		CF1EEDC122003BC300CDD1CB /* CloudNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CloudNode.h; sourceTree = "<group>"; };
+		CF1EEDC222003BC300CDD1CB /* CloudNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CloudNode.m; sourceTree = "<group>"; };
+		CF3EE41422042B14002E6F45 /* CheckPointNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CheckPointNode.m; sourceTree = "<group>"; };
+		CF3EE41522042B14002E6F45 /* CheckPointNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CheckPointNode.h; sourceTree = "<group>"; };
+		CF43439421FF12970079EBB0 /* ZPositionCategories.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZPositionCategories.h; sourceTree = "<group>"; };
+		CF4343B321FF260F0079EBB0 /* ShenLongNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShenLongNode.m; sourceTree = "<group>"; };
+		CF4343B421FF260F0079EBB0 /* ShenLongNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShenLongNode.h; sourceTree = "<group>"; };
+		CF649BA52201D91500EF81B4 /* PalaceNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PalaceNode.h; sourceTree = "<group>"; };
+		CF649BA62201D91500EF81B4 /* PalaceNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PalaceNode.m; sourceTree = "<group>"; };
+		CF85842821DF4F91001DF934 /* Geometry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Geometry.h; sourceTree = "<group>"; };
+		CF85842C21DF5401001DF934 /* BallNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BallNode.m; sourceTree = "<group>"; };
+		CF85842D21DF5401001DF934 /* BallNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BallNode.h; sourceTree = "<group>"; };
+		CF85970421E9F909007A9465 /* TileMapLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TileMapLayer.h; sourceTree = "<group>"; };
+		CF85970521E9F909007A9465 /* TileMapLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TileMapLayer.m; sourceTree = "<group>"; };
+		CF85970721EA08F7007A9465 /* WallNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WallNode.m; sourceTree = "<group>"; };
+		CF85970821EA08F7007A9465 /* WallNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WallNode.h; sourceTree = "<group>"; };
+		CFE4C3FF21F833A50034E72E /* WallHorizontalNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WallHorizontalNode.h; sourceTree = "<group>"; };
+		CFE4C40021F833A50034E72E /* WallHorizontalNode.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WallHorizontalNode.m; sourceTree = "<group>"; };
+		CFE4C40221F834080034E72E /* WallVerticalNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WallVerticalNode.h; sourceTree = "<group>"; };
+		CFE4C40321F834080034E72E /* WallVerticalNode.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WallVerticalNode.m; sourceTree = "<group>"; };
+		CFE4C43D21F99DC70034E72E /* ConfigPartDefine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ConfigPartDefine.h; sourceTree = "<group>"; };
+		CFF118EF22087AB3005A6916 /* 敲锣声.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "敲锣声.mp3"; sourceTree = "<group>"; };
+		CFF118F122087AB4005A6916 /* 龙戏珠开场音乐.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "龙戏珠开场音乐.mp3"; sourceTree = "<group>"; };
+		CFF118F7220880C3005A6916 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		CFF118F9220880E1005A6916 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
+		F1062E61223F76AB00A3E46A /* SelectLevelNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectLevelNode.h; sourceTree = "<group>"; };
+		F1062E62223F76AB00A3E46A /* SelectLevelNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectLevelNode.m; sourceTree = "<group>"; };
+		F109B127224097E400AEAD88 /* RedLevelNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RedLevelNode.m; sourceTree = "<group>"; };
+		F109B128224097E400AEAD88 /* BlackLevelNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlackLevelNode.m; sourceTree = "<group>"; };
+		F109B129224097E400AEAD88 /* WhiteLevelNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WhiteLevelNode.m; sourceTree = "<group>"; };
+		F109B12A224097E400AEAD88 /* RedLevelNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RedLevelNode.h; sourceTree = "<group>"; };
+		F109B12B224097E400AEAD88 /* BlackLevelNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlackLevelNode.h; sourceTree = "<group>"; };
+		F109B12C224097E400AEAD88 /* WhiteLevelNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WhiteLevelNode.h; sourceTree = "<group>"; };
+		F109B1322240C32C00AEAD88 /* ColorLevelNodeCategories.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ColorLevelNodeCategories.h; sourceTree = "<group>"; };
+		F1F4FE8322408820005286A5 /* LevelNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LevelNode.h; sourceTree = "<group>"; };
+		F1F4FE8422408820005286A5 /* LevelNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LevelNode.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CF0AB29521DEE9D1008BB6F4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CFF118FA220880E1005A6916 /* AVKit.framework in Frameworks */,
+				CFF118F8220880C3005A6916 /* AVFoundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3A6D29AB22675E9C00ED85C4 /* iPhoneXr_maps */ = {
+			isa = PBXGroup;
+			children = (
+				3ACE193E226B1E65000C5ED0 /* iPhoneXr_map_1.txt */,
+				3ACE1959226B1E67000C5ED0 /* iPhoneXr_map_2.txt */,
+				3ACE194E226B1E67000C5ED0 /* iPhoneXr_map_3.txt */,
+				3ACE193C226B1E65000C5ED0 /* iPhoneXr_map_4.txt */,
+				3ACE1949226B1E66000C5ED0 /* iPhoneXr_map_5.txt */,
+				3ACE1930226B1E64000C5ED0 /* iPhoneXr_map_6.txt */,
+				3ACE192C226B1E64000C5ED0 /* iPhoneXr_map_7.txt */,
+				3ACE1953226B1E67000C5ED0 /* iPhoneXr_map_8.txt */,
+				3ACE1940226B1E65000C5ED0 /* iPhoneXr_map_9.txt */,
+				3ACE1955226B1E67000C5ED0 /* iPhoneXr_map_10.txt */,
+				3ACE1943226B1E65000C5ED0 /* iPhoneXr_map_11.txt */,
+				3ACE192F226B1E64000C5ED0 /* iPhoneXr_map_12.txt */,
+				3ACE1941226B1E65000C5ED0 /* iPhoneXr_map_13.txt */,
+				3ACE193B226B1E65000C5ED0 /* iPhoneXr_map_14.txt */,
+				3ACE1957226B1E67000C5ED0 /* iPhoneXr_map_15.txt */,
+				3ACE193D226B1E65000C5ED0 /* iPhoneXr_map_16.txt */,
+				3ACE194B226B1E66000C5ED0 /* iPhoneXr_map_17.txt */,
+				3ACE1932226B1E64000C5ED0 /* iPhoneXr_map_18.txt */,
+				3ACE1935226B1E64000C5ED0 /* iPhoneXr_map_19.txt */,
+				3ACE1938226B1E65000C5ED0 /* iPhoneXr_map_20.txt */,
+				3ACE1952226B1E67000C5ED0 /* iPhoneXr_map_21.txt */,
+				3ACE194D226B1E66000C5ED0 /* iPhoneXr_map_22.txt */,
+				3ACE1950226B1E67000C5ED0 /* iPhoneXr_map_23.txt */,
+				3ACE194C226B1E66000C5ED0 /* iPhoneXr_map_24.txt */,
+				3ACE1958226B1E67000C5ED0 /* iPhoneXr_map_25.txt */,
+				3ACE1933226B1E64000C5ED0 /* iPhoneXr_map_26.txt */,
+				3ACE195B226B1E68000C5ED0 /* iPhoneXr_map_27.txt */,
+				3ACE192E226B1E64000C5ED0 /* iPhoneXr_map_28.txt */,
+				3ACE192B226B1E64000C5ED0 /* iPhoneXr_map_29.txt */,
+				3ACE1948226B1E66000C5ED0 /* iPhoneXr_map_30.txt */,
+				3ACE195A226B1E68000C5ED0 /* iPhoneXr_map_31.txt */,
+				3ACE1939226B1E65000C5ED0 /* iPhoneXr_map_32.txt */,
+				3ACE194A226B1E66000C5ED0 /* iPhoneXr_map_33.txt */,
+				3ACE1936226B1E64000C5ED0 /* iPhoneXr_map_34.txt */,
+				3ACE192D226B1E64000C5ED0 /* iPhoneXr_map_35.txt */,
+				3ACE1946226B1E66000C5ED0 /* iPhoneXr_map_36.txt */,
+				3ACE1956226B1E67000C5ED0 /* iPhoneXr_map_37.txt */,
+				3ACE1944226B1E66000C5ED0 /* iPhoneXr_map_38.txt */,
+				3ACE192A226B1E64000C5ED0 /* iPhoneXr_map_39.txt */,
+				3ACE1945226B1E66000C5ED0 /* iPhoneXr_map_40.txt */,
+				3ACE1931226B1E64000C5ED0 /* iPhoneXr_map_41.txt */,
+				3ACE194F226B1E67000C5ED0 /* iPhoneXr_map_42.txt */,
+				3ACE1937226B1E64000C5ED0 /* iPhoneXr_map_43.txt */,
+				3ACE1954226B1E67000C5ED0 /* iPhoneXr_map_44.txt */,
+				3ACE1942226B1E65000C5ED0 /* iPhoneXr_map_45.txt */,
+				3ACE1951226B1E67000C5ED0 /* iPhoneXr_map_46.txt */,
+				3ACE1947226B1E66000C5ED0 /* iPhoneXr_map_47.txt */,
+				3ACE193A226B1E65000C5ED0 /* iPhoneXr_map_48.txt */,
+				3ACE1934226B1E64000C5ED0 /* iPhoneXr_map_49.txt */,
+				3ACE193F226B1E65000C5ED0 /* iPhoneXr_map_50.txt */,
+			);
+			path = iPhoneXr_maps;
+			sourceTree = "<group>";
+		};
+		3A6D29AC22675EBF00ED85C4 /* iPhoneXsMax_maps */ = {
+			isa = PBXGroup;
+			children = (
+				3ACE19D5226B4E92000C5ED0 /* iPhoneXsMax_map_1.txt */,
+				3ACE19E9226B4E94000C5ED0 /* iPhoneXsMax_map_2.txt */,
+				3ACE19E0226B4E93000C5ED0 /* iPhoneXsMax_map_3.txt */,
+				3ACE19DA226B4E92000C5ED0 /* iPhoneXsMax_map_4.txt */,
+				3ACE19D2226B4E92000C5ED0 /* iPhoneXsMax_map_5.txt */,
+				3ACE19E1226B4E93000C5ED0 /* iPhoneXsMax_map_6.txt */,
+				3ACE19C2226B4E91000C5ED0 /* iPhoneXsMax_map_7.txt */,
+				3ACE19EF226B4E94000C5ED0 /* iPhoneXsMax_map_8.txt */,
+				3ACE19D0226B4E92000C5ED0 /* iPhoneXsMax_map_9.txt */,
+				3ACE19C6226B4E91000C5ED0 /* iPhoneXsMax_map_10.txt */,
+				3ACE19DE226B4E93000C5ED0 /* iPhoneXsMax_map_11.txt */,
+				3ACE19DD226B4E93000C5ED0 /* iPhoneXsMax_map_12.txt */,
+				3ACE19CE226B4E91000C5ED0 /* iPhoneXsMax_map_13.txt */,
+				3ACE19C4226B4E91000C5ED0 /* iPhoneXsMax_map_14.txt */,
+				3ACE19E5226B4E93000C5ED0 /* iPhoneXsMax_map_15.txt */,
+				3ACE19CB226B4E91000C5ED0 /* iPhoneXsMax_map_16.txt */,
+				3ACE19C5226B4E91000C5ED0 /* iPhoneXsMax_map_17.txt */,
+				3ACE19D9226B4E92000C5ED0 /* iPhoneXsMax_map_18.txt */,
+				3ACE19F2226B4E94000C5ED0 /* iPhoneXsMax_map_19.txt */,
+				3ACE19EB226B4E94000C5ED0 /* iPhoneXsMax_map_20.txt */,
+				3ACE19F3226B4E95000C5ED0 /* iPhoneXsMax_map_21.txt */,
+				3ACE19CF226B4E92000C5ED0 /* iPhoneXsMax_map_22.txt */,
+				3ACE19D1226B4E92000C5ED0 /* iPhoneXsMax_map_23.txt */,
+				3ACE19D8226B4E92000C5ED0 /* iPhoneXsMax_map_24.txt */,
+				3ACE19E7226B4E94000C5ED0 /* iPhoneXsMax_map_25.txt */,
+				3ACE19E2226B4E93000C5ED0 /* iPhoneXsMax_map_26.txt */,
+				3ACE19E4226B4E93000C5ED0 /* iPhoneXsMax_map_27.txt */,
+				3ACE19CA226B4E91000C5ED0 /* iPhoneXsMax_map_28.txt */,
+				3ACE19EA226B4E94000C5ED0 /* iPhoneXsMax_map_29.txt */,
+				3ACE19E3226B4E93000C5ED0 /* iPhoneXsMax_map_30.txt */,
+				3ACE19DF226B4E93000C5ED0 /* iPhoneXsMax_map_31.txt */,
+				3ACE19D7226B4E92000C5ED0 /* iPhoneXsMax_map_32.txt */,
+				3ACE19CC226B4E91000C5ED0 /* iPhoneXsMax_map_33.txt */,
+				3ACE19C8226B4E91000C5ED0 /* iPhoneXsMax_map_34.txt */,
+				3ACE19ED226B4E94000C5ED0 /* iPhoneXsMax_map_35.txt */,
+				3ACE19DB226B4E92000C5ED0 /* iPhoneXsMax_map_36.txt */,
+				3ACE19C9226B4E91000C5ED0 /* iPhoneXsMax_map_37.txt */,
+				3ACE19F1226B4E94000C5ED0 /* iPhoneXsMax_map_38.txt */,
+				3ACE19E6226B4E93000C5ED0 /* iPhoneXsMax_map_39.txt */,
+				3ACE19EE226B4E94000C5ED0 /* iPhoneXsMax_map_40.txt */,
+				3ACE19C3226B4E91000C5ED0 /* iPhoneXsMax_map_41.txt */,
+				3ACE19C7226B4E91000C5ED0 /* iPhoneXsMax_map_42.txt */,
+				3ACE19D4226B4E92000C5ED0 /* iPhoneXsMax_map_43.txt */,
+				3ACE19EC226B4E94000C5ED0 /* iPhoneXsMax_map_44.txt */,
+				3ACE19D6226B4E92000C5ED0 /* iPhoneXsMax_map_45.txt */,
+				3ACE19F0226B4E94000C5ED0 /* iPhoneXsMax_map_46.txt */,
+				3ACE19D3226B4E92000C5ED0 /* iPhoneXsMax_map_47.txt */,
+				3ACE19CD226B4E91000C5ED0 /* iPhoneXsMax_map_48.txt */,
+				3ACE19E8226B4E94000C5ED0 /* iPhoneXsMax_map_49.txt */,
+				3ACE19DC226B4E92000C5ED0 /* iPhoneXsMax_map_50.txt */,
+			);
+			path = iPhoneXsMax_maps;
+			sourceTree = "<group>";
+		};
+		3A6D29AD22675ED200ED85C4 /* iPhone6Plus_maps */ = {
+			isa = PBXGroup;
+			children = (
+				3A13D4B7226C3BB80036CCAA /* iPhone6Plus_map_1.txt */,
+				3A13D4BB226C3BB80036CCAA /* iPhone6Plus_map_2.txt */,
+				3A13D492226C3BB60036CCAA /* iPhone6Plus_map_3.txt */,
+				3A13D4AD226C3BB70036CCAA /* iPhone6Plus_map_4.txt */,
+				3A13D496226C3BB60036CCAA /* iPhone6Plus_map_5.txt */,
+				3A13D4AB226C3BB70036CCAA /* iPhone6Plus_map_6.txt */,
+				3A13D499226C3BB60036CCAA /* iPhone6Plus_map_7.txt */,
+				3A13D49B226C3BB60036CCAA /* iPhone6Plus_map_8.txt */,
+				3A13D49E226C3BB60036CCAA /* iPhone6Plus_map_9.txt */,
+				3A13D4BD226C3BB80036CCAA /* iPhone6Plus_map_10.txt */,
+				3A13D4B4226C3BB80036CCAA /* iPhone6Plus_map_11.txt */,
+				3A13D4B3226C3BB80036CCAA /* iPhone6Plus_map_12.txt */,
+				3A13D498226C3BB60036CCAA /* iPhone6Plus_map_13.txt */,
+				3A13D4B5226C3BB80036CCAA /* iPhone6Plus_map_14.txt */,
+				3A13D49C226C3BB60036CCAA /* iPhone6Plus_map_15.txt */,
+				3A13D4AF226C3BB70036CCAA /* iPhone6Plus_map_16.txt */,
+				3A13D4C0226C3BB90036CCAA /* iPhone6Plus_map_17.txt */,
+				3A13D4C1226C3BB90036CCAA /* iPhone6Plus_map_18.txt */,
+				3A13D49A226C3BB60036CCAA /* iPhone6Plus_map_19.txt */,
+				3A13D4B0226C3BB80036CCAA /* iPhone6Plus_map_20.txt */,
+				3A13D4B9226C3BB80036CCAA /* iPhone6Plus_map_21.txt */,
+				3A13D4A3226C3BB70036CCAA /* iPhone6Plus_map_22.txt */,
+				3A13D493226C3BB60036CCAA /* iPhone6Plus_map_23.txt */,
+				3A13D4B1226C3BB80036CCAA /* iPhone6Plus_map_24.txt */,
+				3A13D4A9226C3BB70036CCAA /* iPhone6Plus_map_25.txt */,
+				3A13D4A7226C3BB70036CCAA /* iPhone6Plus_map_26.txt */,
+				3A13D4A0226C3BB70036CCAA /* iPhone6Plus_map_27.txt */,
+				3A13D4B6226C3BB80036CCAA /* iPhone6Plus_map_28.txt */,
+				3A13D4A2226C3BB70036CCAA /* iPhone6Plus_map_29.txt */,
+				3A13D491226C3BB60036CCAA /* iPhone6Plus_map_30.txt */,
+				3A13D49D226C3BB60036CCAA /* iPhone6Plus_map_31.txt */,
+				3A13D4B2226C3BB80036CCAA /* iPhone6Plus_map_32.txt */,
+				3A13D49F226C3BB60036CCAA /* iPhone6Plus_map_33.txt */,
+				3A13D495226C3BB60036CCAA /* iPhone6Plus_map_34.txt */,
+				3A13D497226C3BB60036CCAA /* iPhone6Plus_map_35.txt */,
+				3A13D4A1226C3BB70036CCAA /* iPhone6Plus_map_36.txt */,
+				3A13D4A8226C3BB70036CCAA /* iPhone6Plus_map_37.txt */,
+				3A13D4A6226C3BB70036CCAA /* iPhone6Plus_map_38.txt */,
+				3A13D494226C3BB60036CCAA /* iPhone6Plus_map_39.txt */,
+				3A13D4AC226C3BB70036CCAA /* iPhone6Plus_map_40.txt */,
+				3A13D4BC226C3BB80036CCAA /* iPhone6Plus_map_41.txt */,
+				3A13D4BF226C3BB80036CCAA /* iPhone6Plus_map_42.txt */,
+				3A13D4A4226C3BB70036CCAA /* iPhone6Plus_map_43.txt */,
+				3A13D4AE226C3BB70036CCAA /* iPhone6Plus_map_44.txt */,
+				3A13D4B8226C3BB80036CCAA /* iPhone6Plus_map_45.txt */,
+				3A13D4A5226C3BB70036CCAA /* iPhone6Plus_map_46.txt */,
+				3A13D4C2226C3BB90036CCAA /* iPhone6Plus_map_47.txt */,
+				3A13D4AA226C3BB70036CCAA /* iPhone6Plus_map_48.txt */,
+				3A13D4BE226C3BB80036CCAA /* iPhone6Plus_map_49.txt */,
+				3A13D4BA226C3BB80036CCAA /* iPhone6Plus_map_50.txt */,
+			);
+			path = iPhone6Plus_maps;
+			sourceTree = "<group>";
+		};
+		3A6D29AE22675EEA00ED85C4 /* iPhone5_maps */ = {
+			isa = PBXGroup;
+			children = (
+				3A13D582226C6F1F0036CCAA /* iPhone5_map_1.txt */,
+				3A13D5A9226C6F210036CCAA /* iPhone5_map_2.txt */,
+				3A13D58C226C6F1F0036CCAA /* iPhone5_map_3.txt */,
+				3A13D587226C6F1F0036CCAA /* iPhone5_map_4.txt */,
+				3A13D58D226C6F1F0036CCAA /* iPhone5_map_5.txt */,
+				3A13D5A6226C6F210036CCAA /* iPhone5_map_6.txt */,
+				3A13D5A4226C6F210036CCAA /* iPhone5_map_7.txt */,
+				3A13D593226C6F200036CCAA /* iPhone5_map_8.txt */,
+				3A13D5A7226C6F210036CCAA /* iPhone5_map_9.txt */,
+				3A13D59C226C6F200036CCAA /* iPhone5_map_10.txt */,
+				3A13D586226C6F1F0036CCAA /* iPhone5_map_11.txt */,
+				3A13D57F226C6F1E0036CCAA /* iPhone5_map_12.txt */,
+				3A13D5A8226C6F210036CCAA /* iPhone5_map_13.txt */,
+				3A13D596226C6F200036CCAA /* iPhone5_map_14.txt */,
+				3A13D588226C6F1F0036CCAA /* iPhone5_map_15.txt */,
+				3A13D589226C6F1F0036CCAA /* iPhone5_map_16.txt */,
+				3A13D58A226C6F1F0036CCAA /* iPhone5_map_17.txt */,
+				3A13D594226C6F200036CCAA /* iPhone5_map_18.txt */,
+				3A13D59D226C6F200036CCAA /* iPhone5_map_19.txt */,
+				3A13D590226C6F1F0036CCAA /* iPhone5_map_20.txt */,
+				3A13D5A2226C6F210036CCAA /* iPhone5_map_21.txt */,
+				3A13D5A3226C6F210036CCAA /* iPhone5_map_22.txt */,
+				3A13D5AA226C6F210036CCAA /* iPhone5_map_23.txt */,
+				3A13D59E226C6F200036CCAA /* iPhone5_map_24.txt */,
+				3A13D585226C6F1F0036CCAA /* iPhone5_map_25.txt */,
+				3A13D591226C6F1F0036CCAA /* iPhone5_map_26.txt */,
+				3A13D5A5226C6F210036CCAA /* iPhone5_map_27.txt */,
+				3A13D59A226C6F200036CCAA /* iPhone5_map_28.txt */,
+				3A13D57B226C6F1E0036CCAA /* iPhone5_map_29.txt */,
+				3A13D581226C6F1F0036CCAA /* iPhone5_map_30.txt */,
+				3A13D599226C6F200036CCAA /* iPhone5_map_31.txt */,
+				3A13D5A1226C6F210036CCAA /* iPhone5_map_32.txt */,
+				3A13D59B226C6F200036CCAA /* iPhone5_map_33.txt */,
+				3A13D5AC226C6F210036CCAA /* iPhone5_map_34.txt */,
+				3A13D58B226C6F1F0036CCAA /* iPhone5_map_35.txt */,
+				3A13D592226C6F200036CCAA /* iPhone5_map_36.txt */,
+				3A13D58E226C6F1F0036CCAA /* iPhone5_map_37.txt */,
+				3A13D5AB226C6F210036CCAA /* iPhone5_map_38.txt */,
+				3A13D57E226C6F1E0036CCAA /* iPhone5_map_39.txt */,
+				3A13D57D226C6F1E0036CCAA /* iPhone5_map_40.txt */,
+				3A13D598226C6F200036CCAA /* iPhone5_map_41.txt */,
+				3A13D59F226C6F200036CCAA /* iPhone5_map_42.txt */,
+				3A13D57C226C6F1E0036CCAA /* iPhone5_map_43.txt */,
+				3A13D597226C6F200036CCAA /* iPhone5_map_44.txt */,
+				3A13D583226C6F1F0036CCAA /* iPhone5_map_45.txt */,
+				3A13D5A0226C6F200036CCAA /* iPhone5_map_46.txt */,
+				3A13D580226C6F1F0036CCAA /* iPhone5_map_47.txt */,
+				3A13D584226C6F1F0036CCAA /* iPhone5_map_48.txt */,
+				3A13D58F226C6F1F0036CCAA /* iPhone5_map_49.txt */,
+				3A13D595226C6F200036CCAA /* iPhone5_map_50.txt */,
+			);
+			path = iPhone5_maps;
+			sourceTree = "<group>";
+		};
+		CF0AB28F21DEE9D1008BB6F4 = {
+			isa = PBXGroup;
+			children = (
+				CF0AB29A21DEE9D1008BB6F4 /* BallGravity */,
+				CF0AB29921DEE9D1008BB6F4 /* Products */,
+				CFF118F6220880C3005A6916 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		CF0AB29921DEE9D1008BB6F4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CF0AB29821DEE9D1008BB6F4 /* BallGravity.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CF0AB29A21DEE9D1008BB6F4 /* BallGravity */ = {
+			isa = PBXGroup;
+			children = (
+				CFC1AAD821F2B43B00EC061B /* maps */,
+				CF0AB29B21DEE9D1008BB6F4 /* AppDelegate.h */,
+				CF0AB29C21DEE9D1008BB6F4 /* AppDelegate.m */,
+				CFE4C43D21F99DC70034E72E /* ConfigPartDefine.h */,
+				CF43439421FF12970079EBB0 /* ZPositionCategories.h */,
+				F109B1322240C32C00AEAD88 /* ColorLevelNodeCategories.h */,
+				CFE4C43C21F997C70034E72E /* SceneSKSs */,
+				CF0AB2A021DEE9D1008BB6F4 /* Actions.sks */,
+				CF12891221FC81D800C3020E /* Scenes */,
+				CF0AB2A521DEE9D1008BB6F4 /* GameViewController.h */,
+				CF0AB2A621DEE9D1008BB6F4 /* GameViewController.m */,
+				CF85842821DF4F91001DF934 /* Geometry.h */,
+				CF85842D21DF5401001DF934 /* BallNode.h */,
+				CF85842C21DF5401001DF934 /* BallNode.m */,
+				BCE31E94222F9B5700A086A6 /* ButtonNode.h */,
+				BCE31E93222F9B5700A086A6 /* ButtonNode.m */,
+				3AA746FC2247624200C537D2 /* FlowersNode.h */,
+				3AA746FD2247624200C537D2 /* FlowersNode.m */,
+				3AC3BECB225043260053A6BE /* DenLongNode.h */,
+				3AC3BECA225043260053A6BE /* DenLongNode.m */,
+				F1F4FE822240872E005286A5 /* SelectLevels */,
+				CF649BA42201D84700EF81B4 /* HeavenPalace */,
+				CFE4C3FE21F833330034E72E /* WallNodes */,
+				CF85970421E9F909007A9465 /* TileMapLayer.h */,
+				CF85970521E9F909007A9465 /* TileMapLayer.m */,
+				CFF118EF22087AB3005A6916 /* 敲锣声.mp3 */,
+				3A8DBDC3224FA42E003F3D4C /* 胜利音乐.mp3 */,
+				CFF118F122087AB4005A6916 /* 龙戏珠开场音乐.mp3 */,
+				CF0AB2A821DEE9D1008BB6F4 /* Main.storyboard */,
+				CF0AB2AB21DEE9D2008BB6F4 /* Assets.xcassets */,
+				CF0AB2AD21DEE9D2008BB6F4 /* LaunchScreen.storyboard */,
+				CF0AB2B021DEE9D2008BB6F4 /* Info.plist */,
+				CF0AB2B121DEE9D2008BB6F4 /* main.m */,
+			);
+			path = BallGravity;
+			sourceTree = "<group>";
+		};
+		CF12891221FC81D800C3020E /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				CF12891621FC81FB00C3020E /* StartScene.h */,
+				CF12891521FC81FB00C3020E /* StartScene.m */,
+				CF0AB2A221DEE9D1008BB6F4 /* GameScene.h */,
+				CF0AB2A321DEE9D1008BB6F4 /* GameScene.m */,
+				CF12891321FC81FB00C3020E /* GameOverScene.h */,
+				CF12891421FC81FB00C3020E /* GameOverScene.m */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		CF649BA42201D84700EF81B4 /* HeavenPalace */ = {
+			isa = PBXGroup;
+			children = (
+				CF649BA52201D91500EF81B4 /* PalaceNode.h */,
+				CF649BA62201D91500EF81B4 /* PalaceNode.m */,
+				CF4343B421FF260F0079EBB0 /* ShenLongNode.h */,
+				CF4343B321FF260F0079EBB0 /* ShenLongNode.m */,
+				CF1EEDC122003BC300CDD1CB /* CloudNode.h */,
+				CF1EEDC222003BC300CDD1CB /* CloudNode.m */,
+				CF3EE41522042B14002E6F45 /* CheckPointNode.h */,
+				CF3EE41422042B14002E6F45 /* CheckPointNode.m */,
+			);
+			path = HeavenPalace;
+			sourceTree = "<group>";
+		};
+		CFC1AAD821F2B43B00EC061B /* maps */ = {
+			isa = PBXGroup;
+			children = (
+				CFE4C43E21F9A0F50034E72E /* iPhone8_maps */,
+				CFE4C43F21F9A10E0034E72E /* iPhoneX_maps */,
+				3A6D29AB22675E9C00ED85C4 /* iPhoneXr_maps */,
+				3A6D29AC22675EBF00ED85C4 /* iPhoneXsMax_maps */,
+				3A6D29AD22675ED200ED85C4 /* iPhone6Plus_maps */,
+				3A6D29AE22675EEA00ED85C4 /* iPhone5_maps */,
+			);
+			path = maps;
+			sourceTree = "<group>";
+		};
+		CFE4C3FE21F833330034E72E /* WallNodes */ = {
+			isa = PBXGroup;
+			children = (
+				CF85970821EA08F7007A9465 /* WallNode.h */,
+				CF85970721EA08F7007A9465 /* WallNode.m */,
+				CFE4C3FF21F833A50034E72E /* WallHorizontalNode.h */,
+				CFE4C40021F833A50034E72E /* WallHorizontalNode.m */,
+				CFE4C40221F834080034E72E /* WallVerticalNode.h */,
+				CFE4C40321F834080034E72E /* WallVerticalNode.m */,
+			);
+			path = WallNodes;
+			sourceTree = "<group>";
+		};
+		CFE4C43C21F997C70034E72E /* SceneSKSs */ = {
+			isa = PBXGroup;
+			children = (
+				CF0AB29E21DEE9D1008BB6F4 /* GameScene.sks */,
+			);
+			path = SceneSKSs;
+			sourceTree = "<group>";
+		};
+		CFE4C43E21F9A0F50034E72E /* iPhone8_maps */ = {
+			isa = PBXGroup;
+			children = (
+				3A6D294E226759A200ED85C4 /* iPhone8_map_1.txt */,
+				3A6D295A226759A300ED85C4 /* iPhone8_map_2.txt */,
+				3A6D296B226759A300ED85C4 /* iPhone8_map_3.txt */,
+				3A6D2949226759A200ED85C4 /* iPhone8_map_4.txt */,
+				3A6D2973226759A400ED85C4 /* iPhone8_map_5.txt */,
+				3A6D2970226759A400ED85C4 /* iPhone8_map_6.txt */,
+				3A6D2950226759A200ED85C4 /* iPhone8_map_7.txt */,
+				3A6D2957226759A200ED85C4 /* iPhone8_map_8.txt */,
+				3A6D2961226759A300ED85C4 /* iPhone8_map_9.txt */,
+				3A6D296E226759A300ED85C4 /* iPhone8_map_10.txt */,
+				3A6D2962226759A300ED85C4 /* iPhone8_map_11.txt */,
+				3A6D294C226759A200ED85C4 /* iPhone8_map_12.txt */,
+				3A6D2958226759A300ED85C4 /* iPhone8_map_13.txt */,
+				3A6D2952226759A200ED85C4 /* iPhone8_map_14.txt */,
+				3A6D2975226759A400ED85C4 /* iPhone8_map_15.txt */,
+				3A6D2955226759A200ED85C4 /* iPhone8_map_16.txt */,
+				3A6D2978226759A400ED85C4 /* iPhone8_map_17.txt */,
+				3A6D2947226759A200ED85C4 /* iPhone8_map_18.txt */,
+				3A6D2974226759A400ED85C4 /* iPhone8_map_19.txt */,
+				3A6D2966226759A300ED85C4 /* iPhone8_map_20.txt */,
+				3A6D2951226759A200ED85C4 /* iPhone8_map_21.txt */,
+				3A6D294A226759A200ED85C4 /* iPhone8_map_22.txt */,
+				3A6D294B226759A200ED85C4 /* iPhone8_map_23.txt */,
+				3A6D295C226759A300ED85C4 /* iPhone8_map_24.txt */,
+				3A6D2967226759A300ED85C4 /* iPhone8_map_25.txt */,
+				3A6D296D226759A300ED85C4 /* iPhone8_map_26.txt */,
+				3A6D2971226759A400ED85C4 /* iPhone8_map_27.txt */,
+				3A6D296A226759A300ED85C4 /* iPhone8_map_28.txt */,
+				3A6D295B226759A300ED85C4 /* iPhone8_map_29.txt */,
+				3A6D2963226759A300ED85C4 /* iPhone8_map_30.txt */,
+				3A6D2959226759A300ED85C4 /* iPhone8_map_31.txt */,
+				3A6D295F226759A300ED85C4 /* iPhone8_map_32.txt */,
+				3A6D295D226759A300ED85C4 /* iPhone8_map_33.txt */,
+				3A6D2976226759A400ED85C4 /* iPhone8_map_34.txt */,
+				3A6D294D226759A200ED85C4 /* iPhone8_map_35.txt */,
+				3A6D2954226759A200ED85C4 /* iPhone8_map_36.txt */,
+				3A6D2968226759A300ED85C4 /* iPhone8_map_37.txt */,
+				3A6D2972226759A400ED85C4 /* iPhone8_map_38.txt */,
+				3A6D2965226759A300ED85C4 /* iPhone8_map_39.txt */,
+				3A6D296F226759A300ED85C4 /* iPhone8_map_40.txt */,
+				3A6D2956226759A200ED85C4 /* iPhone8_map_41.txt */,
+				3A6D295E226759A300ED85C4 /* iPhone8_map_42.txt */,
+				3A6D2953226759A200ED85C4 /* iPhone8_map_43.txt */,
+				3A6D2960226759A300ED85C4 /* iPhone8_map_44.txt */,
+				3A6D2969226759A300ED85C4 /* iPhone8_map_45.txt */,
+				3A6D296C226759A300ED85C4 /* iPhone8_map_46.txt */,
+				3A6D2964226759A300ED85C4 /* iPhone8_map_47.txt */,
+				3A6D2977226759A400ED85C4 /* iPhone8_map_48.txt */,
+				3A6D2948226759A200ED85C4 /* iPhone8_map_49.txt */,
+				3A6D294F226759A200ED85C4 /* iPhone8_map_50.txt */,
+			);
+			path = iPhone8_maps;
+			sourceTree = "<group>";
+		};
+		CFE4C43F21F9A10E0034E72E /* iPhoneX_maps */ = {
+			isa = PBXGroup;
+			children = (
+				3ACE1827226AE9DF000C5ED0 /* iPhoneX_map_1.txt */,
+				3ACE1823226AE9DF000C5ED0 /* iPhoneX_map_2.txt */,
+				3ACE1836226AE9E0000C5ED0 /* iPhoneX_map_3.txt */,
+				3ACE1828226AE9DF000C5ED0 /* iPhoneX_map_4.txt */,
+				3ACE1835226AE9E0000C5ED0 /* iPhoneX_map_5.txt */,
+				3ACE1843226AE9E0000C5ED0 /* iPhoneX_map_6.txt */,
+				3ACE181F226AE9DF000C5ED0 /* iPhoneX_map_7.txt */,
+				3ACE1832226AE9DF000C5ED0 /* iPhoneX_map_8.txt */,
+				3ACE1824226AE9DF000C5ED0 /* iPhoneX_map_9.txt */,
+				3ACE1814226AE9DE000C5ED0 /* iPhoneX_map_10.txt */,
+				3ACE181B226AE9DF000C5ED0 /* iPhoneX_map_11.txt */,
+				3ACE1825226AE9DF000C5ED0 /* iPhoneX_map_12.txt */,
+				3ACE182D226AE9DF000C5ED0 /* iPhoneX_map_13.txt */,
+				3ACE1839226AE9E0000C5ED0 /* iPhoneX_map_14.txt */,
+				3ACE183A226AE9E0000C5ED0 /* iPhoneX_map_15.txt */,
+				3ACE1820226AE9DF000C5ED0 /* iPhoneX_map_16.txt */,
+				3ACE1842226AE9E0000C5ED0 /* iPhoneX_map_17.txt */,
+				3ACE1838226AE9E0000C5ED0 /* iPhoneX_map_18.txt */,
+				3ACE183F226AE9E0000C5ED0 /* iPhoneX_map_19.txt */,
+				3ACE1818226AE9DF000C5ED0 /* iPhoneX_map_20.txt */,
+				3ACE1844226AE9E0000C5ED0 /* iPhoneX_map_21.txt */,
+				3ACE1845226AE9E0000C5ED0 /* iPhoneX_map_22.txt */,
+				3ACE183B226AE9E0000C5ED0 /* iPhoneX_map_23.txt */,
+				3ACE1815226AE9DE000C5ED0 /* iPhoneX_map_24.txt */,
+				3ACE1822226AE9DF000C5ED0 /* iPhoneX_map_25.txt */,
+				3ACE1830226AE9DF000C5ED0 /* iPhoneX_map_26.txt */,
+				3ACE182C226AE9DF000C5ED0 /* iPhoneX_map_27.txt */,
+				3ACE181A226AE9DF000C5ED0 /* iPhoneX_map_28.txt */,
+				3ACE181C226AE9DF000C5ED0 /* iPhoneX_map_29.txt */,
+				3ACE183D226AE9E0000C5ED0 /* iPhoneX_map_30.txt */,
+				3ACE182A226AE9DF000C5ED0 /* iPhoneX_map_31.txt */,
+				3ACE1821226AE9DF000C5ED0 /* iPhoneX_map_32.txt */,
+				3ACE182E226AE9DF000C5ED0 /* iPhoneX_map_33.txt */,
+				3ACE182B226AE9DF000C5ED0 /* iPhoneX_map_34.txt */,
+				3ACE1831226AE9DF000C5ED0 /* iPhoneX_map_35.txt */,
+				3ACE1833226AE9E0000C5ED0 /* iPhoneX_map_36.txt */,
+				3ACE182F226AE9DF000C5ED0 /* iPhoneX_map_37.txt */,
+				3ACE183E226AE9E0000C5ED0 /* iPhoneX_map_38.txt */,
+				3ACE1819226AE9DF000C5ED0 /* iPhoneX_map_39.txt */,
+				3ACE1837226AE9E0000C5ED0 /* iPhoneX_map_40.txt */,
+				3ACE1816226AE9DE000C5ED0 /* iPhoneX_map_41.txt */,
+				3ACE1834226AE9E0000C5ED0 /* iPhoneX_map_42.txt */,
+				3ACE181E226AE9DF000C5ED0 /* iPhoneX_map_43.txt */,
+				3ACE1841226AE9E0000C5ED0 /* iPhoneX_map_44.txt */,
+				3ACE183C226AE9E0000C5ED0 /* iPhoneX_map_45.txt */,
+				3ACE1817226AE9DE000C5ED0 /* iPhoneX_map_46.txt */,
+				3ACE1829226AE9DF000C5ED0 /* iPhoneX_map_47.txt */,
+				3ACE1840226AE9E0000C5ED0 /* iPhoneX_map_48.txt */,
+				3ACE1826226AE9DF000C5ED0 /* iPhoneX_map_49.txt */,
+				3ACE181D226AE9DF000C5ED0 /* iPhoneX_map_50.txt */,
+			);
+			path = iPhoneX_maps;
+			sourceTree = "<group>";
+		};
+		CFF118F6220880C3005A6916 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CFF118F9220880E1005A6916 /* AVKit.framework */,
+				CFF118F7220880C3005A6916 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F1F4FE822240872E005286A5 /* SelectLevels */ = {
+			isa = PBXGroup;
+			children = (
+				F1062E61223F76AB00A3E46A /* SelectLevelNode.h */,
+				F1062E62223F76AB00A3E46A /* SelectLevelNode.m */,
+				F1F4FE8322408820005286A5 /* LevelNode.h */,
+				F1F4FE8422408820005286A5 /* LevelNode.m */,
+				3ABC578522466ECC0031A591 /* LevelLabelNode.h */,
+				3ABC578622466ECC0031A591 /* LevelLabelNode.m */,
+				F109B12B224097E400AEAD88 /* BlackLevelNode.h */,
+				F109B128224097E400AEAD88 /* BlackLevelNode.m */,
+				F109B12A224097E400AEAD88 /* RedLevelNode.h */,
+				F109B127224097E400AEAD88 /* RedLevelNode.m */,
+				F109B12C224097E400AEAD88 /* WhiteLevelNode.h */,
+				F109B129224097E400AEAD88 /* WhiteLevelNode.m */,
+			);
+			path = SelectLevels;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CF0AB29721DEE9D1008BB6F4 /* BallGravity */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CF0AB2B521DEE9D2008BB6F4 /* Build configuration list for PBXNativeTarget "BallGravity" */;
+			buildPhases = (
+				CF0AB29421DEE9D1008BB6F4 /* Sources */,
+				CF0AB29521DEE9D1008BB6F4 /* Frameworks */,
+				CF0AB29621DEE9D1008BB6F4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BallGravity;
+			productName = BallGravity;
+			productReference = CF0AB29821DEE9D1008BB6F4 /* BallGravity.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CF0AB29021DEE9D1008BB6F4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = hongweicheng;
+				TargetAttributes = {
+					CF0AB29721DEE9D1008BB6F4 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+				};
+			};
+			buildConfigurationList = CF0AB29321DEE9D1008BB6F4 /* Build configuration list for PBXProject "BallGravity" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF0AB28F21DEE9D1008BB6F4;
+			productRefGroup = CF0AB29921DEE9D1008BB6F4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CF0AB29721DEE9D1008BB6F4 /* BallGravity */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CF0AB29621DEE9D1008BB6F4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3A6D2986226759A400ED85C4 /* iPhone8_map_36.txt in Resources */,
+				3ACE1856226AE9E0000C5ED0 /* iPhoneX_map_9.txt in Resources */,
+				3ACE186A226AE9E0000C5ED0 /* iPhoneX_map_18.txt in Resources */,
+				3ACE1A1B226B4E95000C5ED0 /* iPhoneXsMax_map_2.txt in Resources */,
+				3ACE1987226B1E68000C5ED0 /* iPhoneXr_map_10.txt in Resources */,
+				3ACE185B226AE9E0000C5ED0 /* iPhoneX_map_47.txt in Resources */,
+				3ACE185F226AE9E0000C5ED0 /* iPhoneX_map_13.txt in Resources */,
+				3A13D4EF226C3BB90036CCAA /* iPhone6Plus_map_10.txt in Resources */,
+				3A6D29A3226759A400ED85C4 /* iPhone8_map_27.txt in Resources */,
+				3ACE198B226B1E68000C5ED0 /* iPhoneXr_map_2.txt in Resources */,
+				3A13D4DE226C3BB90036CCAA /* iPhone6Plus_map_40.txt in Resources */,
+				3A6D299E226759A400ED85C4 /* iPhone8_map_46.txt in Resources */,
+				3ACE184B226AE9E0000C5ED0 /* iPhoneX_map_39.txt in Resources */,
+				3A13D4C7226C3BB90036CCAA /* iPhone6Plus_map_34.txt in Resources */,
+				3ACE1964226B1E68000C5ED0 /* iPhoneXr_map_18.txt in Resources */,
+				3ACE184F226AE9E0000C5ED0 /* iPhoneX_map_50.txt in Resources */,
+				3ACE1965226B1E68000C5ED0 /* iPhoneXr_map_26.txt in Resources */,
+				3A13D4E9226C3BB90036CCAA /* iPhone6Plus_map_1.txt in Resources */,
+				3ACE197C226B1E68000C5ED0 /* iPhoneXr_map_33.txt in Resources */,
+				3ACE1857226AE9E0000C5ED0 /* iPhoneX_map_12.txt in Resources */,
+				3ACE1849226AE9E0000C5ED0 /* iPhoneX_map_46.txt in Resources */,
+				3A13D5AD226C6F210036CCAA /* iPhone5_map_29.txt in Resources */,
+				3ACE197F226B1E68000C5ED0 /* iPhoneXr_map_22.txt in Resources */,
+				3A13D5B5226C6F210036CCAA /* iPhone5_map_45.txt in Resources */,
+				3A13D5DA226C6F210036CCAA /* iPhone5_map_13.txt in Resources */,
+				3A6D297F226759A400ED85C4 /* iPhone8_map_35.txt in Resources */,
+				3ACE1977226B1E68000C5ED0 /* iPhoneXr_map_40.txt in Resources */,
+				3A13D4D3226C3BB90036CCAA /* iPhone6Plus_map_36.txt in Resources */,
+				3ACE1861226AE9E0000C5ED0 /* iPhoneX_map_37.txt in Resources */,
+				3ACE1A0A226B4E95000C5ED0 /* iPhoneXsMax_map_24.txt in Resources */,
+				3ACE1A0C226B4E95000C5ED0 /* iPhoneXsMax_map_4.txt in Resources */,
+				3A6D2983226759A400ED85C4 /* iPhone8_map_21.txt in Resources */,
+				3ACE1A15226B4E95000C5ED0 /* iPhoneXsMax_map_30.txt in Resources */,
+				3A13D5C0226C6F210036CCAA /* iPhone5_map_37.txt in Resources */,
+				3A6D298A226759A400ED85C4 /* iPhone8_map_13.txt in Resources */,
+				3A13D4CE226C3BB90036CCAA /* iPhone6Plus_map_15.txt in Resources */,
+				3ACE1850226AE9E0000C5ED0 /* iPhoneX_map_43.txt in Resources */,
+				3A6D2991226759A400ED85C4 /* iPhone8_map_32.txt in Resources */,
+				3A13D5B1226C6F210036CCAA /* iPhone5_map_12.txt in Resources */,
+				3ACE185A226AE9E0000C5ED0 /* iPhoneX_map_4.txt in Resources */,
+				3A13D5CD226C6F210036CCAA /* iPhone5_map_33.txt in Resources */,
+				3A6D2982226759A400ED85C4 /* iPhone8_map_7.txt in Resources */,
+				3A13D5D7226C6F210036CCAA /* iPhone5_map_27.txt in Resources */,
+				3ACE19F9226B4E95000C5ED0 /* iPhoneXsMax_map_42.txt in Resources */,
+				3A13D5C8226C6F210036CCAA /* iPhone5_map_14.txt in Resources */,
+				3A13D4EC226C3BB90036CCAA /* iPhone6Plus_map_50.txt in Resources */,
+				3ACE1A1C226B4E95000C5ED0 /* iPhoneXsMax_map_29.txt in Resources */,
+				3ACE1A1A226B4E95000C5ED0 /* iPhoneXsMax_map_49.txt in Resources */,
+				3ACE1A06226B4E95000C5ED0 /* iPhoneXsMax_map_43.txt in Resources */,
+				3A6D2990226759A400ED85C4 /* iPhone8_map_42.txt in Resources */,
+				3A13D4D0226C3BB90036CCAA /* iPhone6Plus_map_9.txt in Resources */,
+				3A13D4DA226C3BB90036CCAA /* iPhone6Plus_map_37.txt in Resources */,
+				3A13D4D2226C3BB90036CCAA /* iPhone6Plus_map_27.txt in Resources */,
+				3ACE1872226AE9E0000C5ED0 /* iPhoneX_map_48.txt in Resources */,
+				3A13D4CB226C3BB90036CCAA /* iPhone6Plus_map_7.txt in Resources */,
+				3ACE196D226B1E68000C5ED0 /* iPhoneXr_map_14.txt in Resources */,
+				3ACE184D226AE9E0000C5ED0 /* iPhoneX_map_11.txt in Resources */,
+				3ACE1A1D226B4E95000C5ED0 /* iPhoneXsMax_map_20.txt in Resources */,
+				3A13D4E6226C3BB90036CCAA /* iPhone6Plus_map_11.txt in Resources */,
+				3ACE1A25226B4E95000C5ED0 /* iPhoneXsMax_map_21.txt in Resources */,
+				3ACE185E226AE9E0000C5ED0 /* iPhoneX_map_27.txt in Resources */,
+				3A13D4C6226C3BB90036CCAA /* iPhone6Plus_map_39.txt in Resources */,
+				3ACE19FE226B4E95000C5ED0 /* iPhoneXsMax_map_33.txt in Resources */,
+				3A6D2981226759A400ED85C4 /* iPhone8_map_50.txt in Resources */,
+				3ACE1851226AE9E0000C5ED0 /* iPhoneX_map_7.txt in Resources */,
+				3A13D5C9226C6F210036CCAA /* iPhone5_map_44.txt in Resources */,
+				3ACE1863226AE9E0000C5ED0 /* iPhoneX_map_35.txt in Resources */,
+				3ACE1A01226B4E95000C5ED0 /* iPhoneXsMax_map_22.txt in Resources */,
+				3ACE1A23226B4E95000C5ED0 /* iPhoneXsMax_map_38.txt in Resources */,
+				3A6D2980226759A400ED85C4 /* iPhone8_map_1.txt in Resources */,
+				3ACE1A02226B4E95000C5ED0 /* iPhoneXsMax_map_9.txt in Resources */,
+				3A13D5DC226C6F210036CCAA /* iPhone5_map_23.txt in Resources */,
+				3ACE1A16226B4E95000C5ED0 /* iPhoneXsMax_map_27.txt in Resources */,
+				3A6D2979226759A400ED85C4 /* iPhone8_map_18.txt in Resources */,
+				3A13D4EB226C3BB90036CCAA /* iPhone6Plus_map_21.txt in Resources */,
+				3ACE19F8226B4E95000C5ED0 /* iPhoneXsMax_map_10.txt in Resources */,
+				3A6D2998226759A400ED85C4 /* iPhone8_map_20.txt in Resources */,
+				3A13D5BC226C6F210036CCAA /* iPhone5_map_17.txt in Resources */,
+				3A6D298D226759A400ED85C4 /* iPhone8_map_29.txt in Resources */,
+				3A6D29A0226759A400ED85C4 /* iPhone8_map_10.txt in Resources */,
+				3A13D4F2226C3BB90036CCAA /* iPhone6Plus_map_17.txt in Resources */,
+				3A13D5D1226C6F210036CCAA /* iPhone5_map_42.txt in Resources */,
+				3ACE1980226B1E68000C5ED0 /* iPhoneXr_map_3.txt in Resources */,
+				3A6D299F226759A400ED85C4 /* iPhone8_map_26.txt in Resources */,
+				3A13D5CF226C6F210036CCAA /* iPhone5_map_19.txt in Resources */,
+				3A6D29A9226759A400ED85C4 /* iPhone8_map_48.txt in Resources */,
+				CF0AB2AA21DEE9D1008BB6F4 /* Main.storyboard in Resources */,
+				3ACE1986226B1E68000C5ED0 /* iPhoneXr_map_44.txt in Resources */,
+				3ACE1A07226B4E95000C5ED0 /* iPhoneXsMax_map_1.txt in Resources */,
+				3ACE1871226AE9E0000C5ED0 /* iPhoneX_map_19.txt in Resources */,
+				3A13D4E0226C3BB90036CCAA /* iPhone6Plus_map_44.txt in Resources */,
+				3ACE1970226B1E68000C5ED0 /* iPhoneXr_map_1.txt in Resources */,
+				3A13D5BD226C6F210036CCAA /* iPhone5_map_35.txt in Resources */,
+				3ACE196E226B1E68000C5ED0 /* iPhoneXr_map_4.txt in Resources */,
+				3A13D4CD226C3BB90036CCAA /* iPhone6Plus_map_8.txt in Resources */,
+				3A13D5B0226C6F210036CCAA /* iPhone5_map_39.txt in Resources */,
+				3ACE1969226B1E68000C5ED0 /* iPhoneXr_map_43.txt in Resources */,
+				3A13D5D9226C6F210036CCAA /* iPhone5_map_9.txt in Resources */,
+				3ACE197B226B1E68000C5ED0 /* iPhoneXr_map_5.txt in Resources */,
+				3ACE1978226B1E68000C5ED0 /* iPhoneXr_map_36.txt in Resources */,
+				3ACE1982226B1E68000C5ED0 /* iPhoneXr_map_23.txt in Resources */,
+				3A13D5B4226C6F210036CCAA /* iPhone5_map_1.txt in Resources */,
+				3A13D4CF226C3BB90036CCAA /* iPhone6Plus_map_31.txt in Resources */,
+				3A13D5B9226C6F210036CCAA /* iPhone5_map_4.txt in Resources */,
+				3ACE1865226AE9E0000C5ED0 /* iPhoneX_map_36.txt in Resources */,
+				3A13D4C8226C3BB90036CCAA /* iPhone6Plus_map_5.txt in Resources */,
+				3ACE19F6226B4E95000C5ED0 /* iPhoneXsMax_map_14.txt in Resources */,
+				3ACE1870226AE9E0000C5ED0 /* iPhoneX_map_38.txt in Resources */,
+				3A6D29A8226759A400ED85C4 /* iPhone8_map_34.txt in Resources */,
+				3ACE197D226B1E68000C5ED0 /* iPhoneXr_map_17.txt in Resources */,
+				3ACE1846226AE9E0000C5ED0 /* iPhoneX_map_10.txt in Resources */,
+				3ACE184E226AE9E0000C5ED0 /* iPhoneX_map_29.txt in Resources */,
+				3ACE197A226B1E68000C5ED0 /* iPhoneXr_map_30.txt in Resources */,
+				3A6D299B226759A400ED85C4 /* iPhone8_map_45.txt in Resources */,
+				3A6D2987226759A400ED85C4 /* iPhone8_map_16.txt in Resources */,
+				3A13D4D6226C3BB90036CCAA /* iPhone6Plus_map_43.txt in Resources */,
+				3ACE1967226B1E68000C5ED0 /* iPhoneXr_map_19.txt in Resources */,
+				3ACE198D226B1E68000C5ED0 /* iPhoneXr_map_27.txt in Resources */,
+				3ACE1858226AE9E0000C5ED0 /* iPhoneX_map_49.txt in Resources */,
+				3ACE1975226B1E68000C5ED0 /* iPhoneXr_map_11.txt in Resources */,
+				3ACE196F226B1E68000C5ED0 /* iPhoneXr_map_16.txt in Resources */,
+				3ACE1963226B1E68000C5ED0 /* iPhoneXr_map_41.txt in Resources */,
+				3A13D4EE226C3BB90036CCAA /* iPhone6Plus_map_41.txt in Resources */,
+				3A13D5DB226C6F210036CCAA /* iPhone5_map_2.txt in Resources */,
+				3A6D2984226759A400ED85C4 /* iPhone8_map_14.txt in Resources */,
+				3A6D299D226759A400ED85C4 /* iPhone8_map_3.txt in Resources */,
+				3ACE184A226AE9E0000C5ED0 /* iPhoneX_map_20.txt in Resources */,
+				3A13D5B2226C6F210036CCAA /* iPhone5_map_47.txt in Resources */,
+				3A13D5C2226C6F210036CCAA /* iPhone5_map_20.txt in Resources */,
+				3A13D5AF226C6F210036CCAA /* iPhone5_map_40.txt in Resources */,
+				3A13D4E7226C3BB90036CCAA /* iPhone6Plus_map_14.txt in Resources */,
+				3ACE1976226B1E68000C5ED0 /* iPhoneXr_map_38.txt in Resources */,
+				3ACE1971226B1E68000C5ED0 /* iPhoneXr_map_50.txt in Resources */,
+				3A13D4DC226C3BB90036CCAA /* iPhone6Plus_map_48.txt in Resources */,
+				3ACE1985226B1E68000C5ED0 /* iPhoneXr_map_8.txt in Resources */,
+				3ACE185C226AE9E0000C5ED0 /* iPhoneX_map_31.txt in Resources */,
+				3A13D5BA226C6F210036CCAA /* iPhone5_map_15.txt in Resources */,
+				3A13D4F3226C3BB90036CCAA /* iPhone6Plus_map_18.txt in Resources */,
+				3A13D4D9226C3BB90036CCAA /* iPhone6Plus_map_26.txt in Resources */,
+				3ACE1988226B1E68000C5ED0 /* iPhoneXr_map_37.txt in Resources */,
+				3ACE1A0B226B4E95000C5ED0 /* iPhoneXsMax_map_18.txt in Resources */,
+				3A13D4F1226C3BB90036CCAA /* iPhone6Plus_map_42.txt in Resources */,
+				3A13D4E3226C3BB90036CCAA /* iPhone6Plus_map_24.txt in Resources */,
+				3ACE1874226AE9E0000C5ED0 /* iPhoneX_map_17.txt in Resources */,
+				3ACE184C226AE9E0000C5ED0 /* iPhoneX_map_28.txt in Resources */,
+				3ACE1966226B1E68000C5ED0 /* iPhoneXr_map_49.txt in Resources */,
+				3A13D5BE226C6F210036CCAA /* iPhone5_map_3.txt in Resources */,
+				3ACE197E226B1E68000C5ED0 /* iPhoneXr_map_24.txt in Resources */,
+				3A6D2992226759A400ED85C4 /* iPhone8_map_44.txt in Resources */,
+				3ACE1A1F226B4E95000C5ED0 /* iPhoneXsMax_map_35.txt in Resources */,
+				3A13D4D1226C3BB90036CCAA /* iPhone6Plus_map_33.txt in Resources */,
+				3ACE1862226AE9E0000C5ED0 /* iPhoneX_map_26.txt in Resources */,
+				3ACE1973226B1E68000C5ED0 /* iPhoneXr_map_13.txt in Resources */,
+				3ACE1981226B1E68000C5ED0 /* iPhoneXr_map_42.txt in Resources */,
+				3ACE1974226B1E68000C5ED0 /* iPhoneXr_map_45.txt in Resources */,
+				3ACE1960226B1E68000C5ED0 /* iPhoneXr_map_28.txt in Resources */,
+				CFF118F522087AB4005A6916 /* 龙戏珠开场音乐.mp3 in Resources */,
+				3ACE1A09226B4E95000C5ED0 /* iPhoneXsMax_map_32.txt in Resources */,
+				3ACE1A24226B4E95000C5ED0 /* iPhoneXsMax_map_19.txt in Resources */,
+				3A13D4E8226C3BB90036CCAA /* iPhone6Plus_map_28.txt in Resources */,
+				3ACE196C226B1E68000C5ED0 /* iPhoneXr_map_48.txt in Resources */,
+				3A13D5CA226C6F210036CCAA /* iPhone5_map_41.txt in Resources */,
+				3A6D2999226759A400ED85C4 /* iPhone8_map_25.txt in Resources */,
+				3ACE186C226AE9E0000C5ED0 /* iPhoneX_map_15.txt in Resources */,
+				3ACE198A226B1E68000C5ED0 /* iPhoneXr_map_25.txt in Resources */,
+				3A13D4ED226C3BB90036CCAA /* iPhone6Plus_map_2.txt in Resources */,
+				3A13D4C3226C3BB90036CCAA /* iPhone6Plus_map_30.txt in Resources */,
+				3ACE1A05226B4E95000C5ED0 /* iPhoneXsMax_map_47.txt in Resources */,
+				3ACE1853226AE9E0000C5ED0 /* iPhoneX_map_32.txt in Resources */,
+				3A6D29A5226759A400ED85C4 /* iPhone8_map_5.txt in Resources */,
+				3ACE1A03226B4E95000C5ED0 /* iPhoneXsMax_map_23.txt in Resources */,
+				3ACE1962226B1E68000C5ED0 /* iPhoneXr_map_6.txt in Resources */,
+				3ACE1984226B1E68000C5ED0 /* iPhoneXr_map_21.txt in Resources */,
+				3ACE1855226AE9E0000C5ED0 /* iPhoneX_map_2.txt in Resources */,
+				3ACE196A226B1E68000C5ED0 /* iPhoneXr_map_20.txt in Resources */,
+				3ACE1864226AE9E0000C5ED0 /* iPhoneX_map_8.txt in Resources */,
+				3ACE1A1E226B4E95000C5ED0 /* iPhoneXsMax_map_44.txt in Resources */,
+				3ACE19FD226B4E95000C5ED0 /* iPhoneXsMax_map_16.txt in Resources */,
+				3ACE1A18226B4E95000C5ED0 /* iPhoneXsMax_map_39.txt in Resources */,
+				3A6D297A226759A400ED85C4 /* iPhone8_map_49.txt in Resources */,
+				3ACE1877226AE9E0000C5ED0 /* iPhoneX_map_22.txt in Resources */,
+				3ACE1859226AE9E0000C5ED0 /* iPhoneX_map_1.txt in Resources */,
+				3A6D298F226759A400ED85C4 /* iPhone8_map_33.txt in Resources */,
+				3ACE1979226B1E68000C5ED0 /* iPhoneXr_map_47.txt in Resources */,
+				3A6D297C226759A400ED85C4 /* iPhone8_map_22.txt in Resources */,
+				3A13D4D5226C3BB90036CCAA /* iPhone6Plus_map_22.txt in Resources */,
+				3A13D5D4226C6F210036CCAA /* iPhone5_map_21.txt in Resources */,
+				3A13D5CC226C6F210036CCAA /* iPhone5_map_28.txt in Resources */,
+				3A13D5B8226C6F210036CCAA /* iPhone5_map_11.txt in Resources */,
+				3A13D5CE226C6F210036CCAA /* iPhone5_map_10.txt in Resources */,
+				3A13D5B6226C6F210036CCAA /* iPhone5_map_48.txt in Resources */,
+				3A13D5B7226C6F210036CCAA /* iPhone5_map_25.txt in Resources */,
+				3A8DBDC4224FA42E003F3D4C /* 胜利音乐.mp3 in Resources */,
+				3A13D4DD226C3BB90036CCAA /* iPhone6Plus_map_6.txt in Resources */,
+				3ACE1A14226B4E95000C5ED0 /* iPhoneXsMax_map_26.txt in Resources */,
+				3ACE19F7226B4E95000C5ED0 /* iPhoneXsMax_map_17.txt in Resources */,
+				3A13D4C4226C3BB90036CCAA /* iPhone6Plus_map_3.txt in Resources */,
+				3ACE1A19226B4E95000C5ED0 /* iPhoneXsMax_map_25.txt in Resources */,
+				3ACE198C226B1E68000C5ED0 /* iPhoneXr_map_31.txt in Resources */,
+				3A13D4DF226C3BB90036CCAA /* iPhone6Plus_map_4.txt in Resources */,
+				3ACE185D226AE9E0000C5ED0 /* iPhoneX_map_34.txt in Resources */,
+				3A13D5CB226C6F210036CCAA /* iPhone5_map_31.txt in Resources */,
+				3A13D5D5226C6F210036CCAA /* iPhone5_map_22.txt in Resources */,
+				3A13D5DE226C6F210036CCAA /* iPhone5_map_34.txt in Resources */,
+				3A6D29A2226759A400ED85C4 /* iPhone8_map_6.txt in Resources */,
+				3A6D298C226759A400ED85C4 /* iPhone8_map_2.txt in Resources */,
+				3A13D4E1226C3BB90036CCAA /* iPhone6Plus_map_16.txt in Resources */,
+				3ACE186F226AE9E0000C5ED0 /* iPhoneX_map_30.txt in Resources */,
+				3A13D5C1226C6F210036CCAA /* iPhone5_map_49.txt in Resources */,
+				3A6D2997226759A400ED85C4 /* iPhone8_map_39.txt in Resources */,
+				CFF118F322087AB4005A6916 /* 敲锣声.mp3 in Resources */,
+				CF0AB29F21DEE9D1008BB6F4 /* GameScene.sks in Resources */,
+				3A6D297E226759A400ED85C4 /* iPhone8_map_12.txt in Resources */,
+				3A6D29AA226759A400ED85C4 /* iPhone8_map_17.txt in Resources */,
+				3A13D5D2226C6F210036CCAA /* iPhone5_map_46.txt in Resources */,
+				CF0AB2AC21DEE9D2008BB6F4 /* Assets.xcassets in Resources */,
+				3ACE1A00226B4E95000C5ED0 /* iPhoneXsMax_map_13.txt in Resources */,
+				3ACE1866226AE9E0000C5ED0 /* iPhoneX_map_42.txt in Resources */,
+				3ACE1A0E226B4E95000C5ED0 /* iPhoneXsMax_map_50.txt in Resources */,
+				3ACE1A10226B4E95000C5ED0 /* iPhoneXsMax_map_11.txt in Resources */,
+				3ACE1A08226B4E95000C5ED0 /* iPhoneXsMax_map_45.txt in Resources */,
+				3A6D2994226759A400ED85C4 /* iPhone8_map_11.txt in Resources */,
+				3ACE1A21226B4E95000C5ED0 /* iPhoneXsMax_map_8.txt in Resources */,
+				3A13D4D8226C3BB90036CCAA /* iPhone6Plus_map_38.txt in Resources */,
+				3ACE1961226B1E68000C5ED0 /* iPhoneXr_map_12.txt in Resources */,
+				3A6D2988226759A400ED85C4 /* iPhone8_map_41.txt in Resources */,
+				3A13D4EA226C3BB90036CCAA /* iPhone6Plus_map_45.txt in Resources */,
+				3ACE19FB226B4E95000C5ED0 /* iPhoneXsMax_map_37.txt in Resources */,
+				3A6D299C226759A400ED85C4 /* iPhone8_map_28.txt in Resources */,
+				3ACE1968226B1E68000C5ED0 /* iPhoneXr_map_34.txt in Resources */,
+				3A13D4CA226C3BB90036CCAA /* iPhone6Plus_map_13.txt in Resources */,
+				3ACE186D226AE9E0000C5ED0 /* iPhoneX_map_23.txt in Resources */,
+				3ACE195C226B1E68000C5ED0 /* iPhoneXr_map_39.txt in Resources */,
+				3A13D4DB226C3BB90036CCAA /* iPhone6Plus_map_25.txt in Resources */,
+				3A6D29A6226759A400ED85C4 /* iPhone8_map_19.txt in Resources */,
+				3ACE1A11226B4E95000C5ED0 /* iPhoneXsMax_map_31.txt in Resources */,
+				3A6D2993226759A400ED85C4 /* iPhone8_map_9.txt in Resources */,
+				3ACE195F226B1E68000C5ED0 /* iPhoneXr_map_35.txt in Resources */,
+				3ACE1A12226B4E95000C5ED0 /* iPhoneXsMax_map_3.txt in Resources */,
+				3ACE1873226AE9E0000C5ED0 /* iPhoneX_map_44.txt in Resources */,
+				3A13D4D4226C3BB90036CCAA /* iPhone6Plus_map_29.txt in Resources */,
+				CF0AB2AF21DEE9D2008BB6F4 /* LaunchScreen.storyboard in Resources */,
+				3A13D5D0226C6F210036CCAA /* iPhone5_map_24.txt in Resources */,
+				CF0AB2A121DEE9D1008BB6F4 /* Actions.sks in Resources */,
+				3A13D5C6226C6F210036CCAA /* iPhone5_map_18.txt in Resources */,
+				3A13D5C4226C6F210036CCAA /* iPhone5_map_36.txt in Resources */,
+				3A6D297B226759A400ED85C4 /* iPhone8_map_4.txt in Resources */,
+				3ACE19FA226B4E95000C5ED0 /* iPhoneXsMax_map_34.txt in Resources */,
+				3A13D5D6226C6F210036CCAA /* iPhone5_map_7.txt in Resources */,
+				3A13D4E4226C3BB90036CCAA /* iPhone6Plus_map_32.txt in Resources */,
+				3ACE195E226B1E68000C5ED0 /* iPhoneXr_map_7.txt in Resources */,
+				3ACE19FF226B4E95000C5ED0 /* iPhoneXsMax_map_48.txt in Resources */,
+				3A13D4D7226C3BB90036CCAA /* iPhone6Plus_map_46.txt in Resources */,
+				3A6D2995226759A400ED85C4 /* iPhone8_map_30.txt in Resources */,
+				3ACE1848226AE9E0000C5ED0 /* iPhoneX_map_41.txt in Resources */,
+				3A13D4F0226C3BB90036CCAA /* iPhone6Plus_map_49.txt in Resources */,
+				3A13D5C3226C6F210036CCAA /* iPhone5_map_26.txt in Resources */,
+				3A6D2996226759A400ED85C4 /* iPhone8_map_47.txt in Resources */,
+				3A6D298B226759A400ED85C4 /* iPhone8_map_31.txt in Resources */,
+				3ACE186E226AE9E0000C5ED0 /* iPhoneX_map_45.txt in Resources */,
+				3A13D4C5226C3BB90036CCAA /* iPhone6Plus_map_23.txt in Resources */,
+				3ACE1A04226B4E95000C5ED0 /* iPhoneXsMax_map_5.txt in Resources */,
+				3A13D5BF226C6F210036CCAA /* iPhone5_map_5.txt in Resources */,
+				3A6D2985226759A400ED85C4 /* iPhone8_map_43.txt in Resources */,
+				3A13D5AE226C6F210036CCAA /* iPhone5_map_43.txt in Resources */,
+				3A13D5D3226C6F210036CCAA /* iPhone5_map_32.txt in Resources */,
+				3ACE1875226AE9E0000C5ED0 /* iPhoneX_map_6.txt in Resources */,
+				3A13D4E2226C3BB90036CCAA /* iPhone6Plus_map_20.txt in Resources */,
+				3ACE1983226B1E68000C5ED0 /* iPhoneXr_map_46.txt in Resources */,
+				3ACE19FC226B4E95000C5ED0 /* iPhoneXsMax_map_28.txt in Resources */,
+				3A13D5D8226C6F210036CCAA /* iPhone5_map_6.txt in Resources */,
+				3A13D4C9226C3BB90036CCAA /* iPhone6Plus_map_35.txt in Resources */,
+				3ACE1A17226B4E95000C5ED0 /* iPhoneXsMax_map_15.txt in Resources */,
+				3A13D4F4226C3BB90036CCAA /* iPhone6Plus_map_47.txt in Resources */,
+				3ACE19F4226B4E95000C5ED0 /* iPhoneXsMax_map_7.txt in Resources */,
+				3A6D298E226759A400ED85C4 /* iPhone8_map_24.txt in Resources */,
+				3ACE1869226AE9E0000C5ED0 /* iPhoneX_map_40.txt in Resources */,
+				3A6D299A226759A400ED85C4 /* iPhone8_map_37.txt in Resources */,
+				3A6D2989226759A400ED85C4 /* iPhone8_map_8.txt in Resources */,
+				3A13D4E5226C3BB90036CCAA /* iPhone6Plus_map_12.txt in Resources */,
+				3ACE1860226AE9E0000C5ED0 /* iPhoneX_map_33.txt in Resources */,
+				3ACE196B226B1E68000C5ED0 /* iPhoneXr_map_32.txt in Resources */,
+				3ACE1A0F226B4E95000C5ED0 /* iPhoneXsMax_map_12.txt in Resources */,
+				3A13D5C5226C6F210036CCAA /* iPhone5_map_8.txt in Resources */,
+				3A6D29A1226759A400ED85C4 /* iPhone8_map_40.txt in Resources */,
+				3ACE1868226AE9E0000C5ED0 /* iPhoneX_map_3.txt in Resources */,
+				3ACE1A22226B4E95000C5ED0 /* iPhoneXsMax_map_46.txt in Resources */,
+				3ACE1852226AE9E0000C5ED0 /* iPhoneX_map_16.txt in Resources */,
+				3ACE1972226B1E68000C5ED0 /* iPhoneXr_map_9.txt in Resources */,
+				3A6D29A4226759A400ED85C4 /* iPhone8_map_38.txt in Resources */,
+				3ACE1867226AE9E0000C5ED0 /* iPhoneX_map_5.txt in Resources */,
+				3ACE1847226AE9E0000C5ED0 /* iPhoneX_map_24.txt in Resources */,
+				3ACE1876226AE9E0000C5ED0 /* iPhoneX_map_21.txt in Resources */,
+				3A13D5B3226C6F210036CCAA /* iPhone5_map_30.txt in Resources */,
+				3ACE1A13226B4E95000C5ED0 /* iPhoneXsMax_map_6.txt in Resources */,
+				3A13D5BB226C6F210036CCAA /* iPhone5_map_16.txt in Resources */,
+				3ACE19F5226B4E95000C5ED0 /* iPhoneXsMax_map_41.txt in Resources */,
+				3A13D5DD226C6F210036CCAA /* iPhone5_map_38.txt in Resources */,
+				3ACE1A20226B4E95000C5ED0 /* iPhoneXsMax_map_40.txt in Resources */,
+				3ACE1989226B1E68000C5ED0 /* iPhoneXr_map_15.txt in Resources */,
+				3ACE186B226AE9E0000C5ED0 /* iPhoneX_map_14.txt in Resources */,
+				3A13D5C7226C6F210036CCAA /* iPhone5_map_50.txt in Resources */,
+				3A6D297D226759A400ED85C4 /* iPhone8_map_23.txt in Resources */,
+				3ACE195D226B1E68000C5ED0 /* iPhoneXr_map_29.txt in Resources */,
+				3ACE1A0D226B4E95000C5ED0 /* iPhoneXsMax_map_36.txt in Resources */,
+				3A13D4CC226C3BB90036CCAA /* iPhone6Plus_map_19.txt in Resources */,
+				3A6D29A7226759A400ED85C4 /* iPhone8_map_15.txt in Resources */,
+				3ACE1854226AE9E0000C5ED0 /* iPhoneX_map_25.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CF0AB29421DEE9D1008BB6F4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1F4FE8522408820005286A5 /* LevelNode.m in Sources */,
+				3ABC578722466ECC0031A591 /* LevelLabelNode.m in Sources */,
+				CF85970621E9F909007A9465 /* TileMapLayer.m in Sources */,
+				CF1EEDC322003BC300CDD1CB /* CloudNode.m in Sources */,
+				CF0AB2A421DEE9D1008BB6F4 /* GameScene.m in Sources */,
+				3AC3BECC225043260053A6BE /* DenLongNode.m in Sources */,
+				3AA746FE2247624200C537D2 /* FlowersNode.m in Sources */,
+				CF649BA72201D91500EF81B4 /* PalaceNode.m in Sources */,
+				CF12891821FC81FB00C3020E /* StartScene.m in Sources */,
+				CF85970921EA08F7007A9465 /* WallNode.m in Sources */,
+				CF0AB2A721DEE9D1008BB6F4 /* GameViewController.m in Sources */,
+				CF4343B521FF260F0079EBB0 /* ShenLongNode.m in Sources */,
+				CF0AB2B221DEE9D2008BB6F4 /* main.m in Sources */,
+				F1062E63223F76AB00A3E46A /* SelectLevelNode.m in Sources */,
+				BCE31E95222F9B5700A086A6 /* ButtonNode.m in Sources */,
+				CF0AB29D21DEE9D1008BB6F4 /* AppDelegate.m in Sources */,
+				CF3EE41622042B14002E6F45 /* CheckPointNode.m in Sources */,
+				F109B12E224097E400AEAD88 /* BlackLevelNode.m in Sources */,
+				CFE4C40421F834080034E72E /* WallVerticalNode.m in Sources */,
+				CF85842E21DF5401001DF934 /* BallNode.m in Sources */,
+				CF12891721FC81FB00C3020E /* GameOverScene.m in Sources */,
+				CFE4C40121F833A50034E72E /* WallHorizontalNode.m in Sources */,
+				F109B12D224097E400AEAD88 /* RedLevelNode.m in Sources */,
+				F109B12F224097E400AEAD88 /* WhiteLevelNode.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CF0AB2A821DEE9D1008BB6F4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CF0AB2A921DEE9D1008BB6F4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CF0AB2AD21DEE9D2008BB6F4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CF0AB2AE21DEE9D2008BB6F4 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CF0AB2B321DEE9D2008BB6F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CF0AB2B421DEE9D2008BB6F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CF0AB2B621DEE9D2008BB6F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = D693R8DE66;
+				INFOPLIST_FILE = BallGravity/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.hongweicheng.DragonPearl;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		CF0AB2B721DEE9D2008BB6F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = D693R8DE66;
+				INFOPLIST_FILE = BallGravity/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.hongweicheng.DragonPearl;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CF0AB29321DEE9D1008BB6F4 /* Build configuration list for PBXProject "BallGravity" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF0AB2B321DEE9D2008BB6F4 /* Debug */,
+				CF0AB2B421DEE9D2008BB6F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CF0AB2B521DEE9D2008BB6F4 /* Build configuration list for PBXNativeTarget "BallGravity" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CF0AB2B621DEE9D2008BB6F4 /* Debug */,
+				CF0AB2B721DEE9D2008BB6F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CF0AB29021DEE9D1008BB6F4 /* Project object */;
+}

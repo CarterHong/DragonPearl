@@ -1,0 +1,10 @@
+
+//  Created by HongWeicheng.
+//
+
+#import <SpriteKit/SpriteKit.h>
+#import "LevelNode.h"
+
+@interface RedLevelNode : LevelNode
+
+@end
